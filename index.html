@@ -2132,7 +2132,7 @@
                         <button id="proxyipCopyBtn" class="copy-btn">复制域名</button>
                     </div>
                 </div>
-				<div class="item-desc">建议选择IP充沛的地区，例如:美国US、日本JP、德国DE、荷兰NL、FR法国、FI芬兰</div>
+				<div class="item-desc">建议选择IP充沛的地区，例如:美国US、日本JP、德国DE、荷兰NL</div>
             </div>
             <div class="group-card">
                 <div class="group-name">自定义检测<span class="tag">有效性检测</span><span class="tag">CM API</span></div>
@@ -2836,28 +2836,14 @@
                 </div>
             </div>
             <div class="group-card">
-                <div class="item-header"><span class="item-title">JS脚本混淆</span><span class="tag">某些脚本可能有兼容问题</span></div>
-                <div class="action-area">
-                    <div class="url-box"><span class="url-text">bestcf.pages.dev/tools/obfuscator/</span></div>
-                    <a href="tools/obfuscator/" class="open-btn" target="_blank">打开链接</a>
-                </div>
-            </div>
-            <div class="group-card">
-                <div class="item-header"><span class="item-title">ECH临时节点转换器</span><span class="tag">解决域名被墙</span></div>
-                <div class="action-area">
-                    <div class="url-box"><span class="url-text">bestcf.eu.cc/tools/ech/</span></div>
-                    <a href="https://bestcf.eu.cc/tools/ech/" class="open-btn" target="_blank">打开链接</a>
-                </div>
-            </div>
-            <div class="group-card">
-                <div class="item-header"><span class="item-title">ECH配置DoH自建方案</span></div>
+                <div class="item-header"><span class="item-title">ECH配置 DoH自建方案</span></div>
                 <div class="action-area">
                     <div class="url-box"><span class="url-text">bestcf.pages.dev/tools/DoH-Self-hosted/</span></div>
                     <a href="tools/DoH-Self-hosted/" class="open-btn" target="_blank">打开链接</a>
                 </div>
             </div>
 			<div class="group-card">
-				<div class="group-name">ECH配置域名合集<span class="tag">隐藏真实SNI</span><span class="tag">三体API</span></div>
+				<div class="group-name">ECH配置 SNI域名合集<span class="tag">隐藏真实SNI</span><span class="tag">三体API</span></div>
 				<div class="action-area" style="gap: 10px; flex-wrap: wrap; margin-bottom: 12px;">
 					<div class="url-box" style="flex: 3; min-width: 200px; padding: 0 10px;">
 						<select id="echDomainSelect" class="url-text"
@@ -2865,7 +2851,7 @@
 						</select>
 					</div>
 					<button id="echCheckBtn" class="copy-btn">立即检测</button>
-				</div>
+				</div>			
 				<div class="link-row">
 					<div class="action-area">
 						<div class="url-box" style="flex: 1; padding: 0 10px;">
@@ -2876,7 +2862,21 @@
 					</div>
 				</div>
 				<div class="item-desc">开启和修改ECH功能需谨慎，两者只要其一不通，会导致魔法不通！<br>需要配合DoH使用，一般使用https://dns.alidns.com/dns-query ，如有特殊需求可自建</div>
-			</div>				
+			</div>
+            <div class="group-card">
+                <div class="item-header"><span class="item-title">ECH 临时节点转换器</span><span class="tag">解决域名被墙</span></div>
+                <div class="action-area">
+                    <div class="url-box"><span class="url-text">bestcf.eu.cc/tools/ech/</span></div>
+                    <a href="https://bestcf.eu.cc/tools/ech/" class="open-btn" target="_blank">打开链接</a>
+                </div>
+            </div>				
+            <div class="group-card">
+                <div class="item-header"><span class="item-title">JS脚本混淆</span><span class="tag">某些脚本可能有兼容问题</span></div>
+                <div class="action-area">
+                    <div class="url-box"><span class="url-text">bestcf.pages.dev/tools/obfuscator/</span></div>
+                    <a href="tools/obfuscator/" class="open-btn" target="_blank">打开链接</a>
+                </div>
+            </div>			
             <div class="group-card">
                 <div class="item-header"><span class="item-title">临时邮箱</span><span class="tag">一次性</span></div>
                 <div class="action-area">
@@ -3265,7 +3265,8 @@
                 </div>				
             </div>
             <div class="group-card">
-                <div id="harmony-up" class="group-name">鸿蒙 HarmonyOS</div><script>window.addEventListener('load',function(){fetch('https://harmony-up.pages.dev/up2.txt?t='+Date.now()).then(r=>r.ok?r.text():'').then(t=>{var v=t.trim(),el=document.getElementById('harmony-up');if(v&&el){var s=document.createElement('span');s.className='tag';var p=v.split('|');var txt='总装机量约'+p[0]+'万台';if(p.length>1){txt+= ' 今日+'+p[1]+'万台';}s.textContent=txt;el.appendChild(s);}}).catch(()=>{});});</script>
+                <div id="harmony-up" class="group-name">鸿蒙 HarmonyOS</div>
+				<script>window.addEventListener('load',function(){fetch('https://harmony-up.pages.dev/up2.txt?t='+Date.now()).then(r=>r.ok?r.text():'').then(t=>{var v=t.trim(),el=document.getElementById('harmony-up');if(v&&el){var s=document.createElement('span');s.className='tag tag-featured';var p=v.split('|');var txt='总装机量约'+p[0]+'万台';if(p.length>1){txt+= ' 今日+'+p[1]+'万台';}s.textContent=txt;el.appendChild(s);}}).catch(()=>{});});</script>
 				<div class="link-row">
                     <div class="item-header"><span class="item-title">ClashBox (AppGallery免签)</span></div>
                     <div class="action-area">
