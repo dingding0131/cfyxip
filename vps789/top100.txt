@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 08-17 07:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 08-17 08:11 | BestCF.pages.dev
 8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 cf.1o.ee:443#VPS789优选 | cf.1o.ee
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
@@ -43,7 +43,6 @@ nexusmods.com:443#VPS789优选 | nexusmods.com
 dnew.cc:443#VPS789优选 | dnew.cc
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
-adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#VPS789优选 | hfqek.cf.3666888.xyz
 3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
 yg2.ygkkk.dpdns.org:443#VPS789优选 | yg2.ygkkk.dpdns.org
@@ -80,6 +79,7 @@ eteaf.cf.3666888.xyz:443#VPS789优选 | eteaf.cf.3666888.xyz
 11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
 www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
+doro.lol:443#VPS789优选 | doro.lol
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
@@ -89,10 +89,10 @@ cdn.2020111.xyz:443#VPS789优选 | cdn.2020111.xyz
 1.cf.3666888.xyz:443#VPS789优选 | 1.cf.3666888.xyz
 cdn.2158.cc:443#VPS789优选 | cdn.2158.cc
 run.254301.xyz:443#VPS789优选 | run.254301.xyz
-ping.ctrl.li:443#VPS789优选 | ping.ctrl.li
 cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 yxip.xxxxxxxx.tk:443#VPS789优选 | yxip.xxxxxxxx.tk
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
+adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
 cnllm.com:443#VPS789优选 | cnllm.com
 www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
 www.sage.com:443#VPS789优选 | www.sage.com
