@@ -15,4 +15,4 @@ jobs:
       - name: Sync fork
         run: gh repo sync ${{ github.repository }} -b main 
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
