@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 08-18 17:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 08-18 18:11 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 www.fastsoso.cn:443#VPS789优选 | www.fastsoso.cn
 cloudflare.idc.rocks:443#VPS789优选 | cloudflare.idc.rocks
@@ -17,15 +17,12 @@ nexusmods.com:443#VPS789优选 | nexusmods.com
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
 www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
-a.lma.de5.net:443#VPS789优选 | a.lma.de5.net
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 cloudflare.rainyfall.com:443#VPS789优选 | cloudflare.rainyfall.com
 123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
-hfqek.cf.3666888.xyz:443#VPS789优选 | hfqek.cf.3666888.xyz
 4.cf.3666888.xyz:443#VPS789优选 | 4.cf.3666888.xyz
 6.cf.3666888.xyz:443#VPS789优选 | 6.cf.3666888.xyz
-7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
 8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
@@ -38,7 +35,6 @@ cdn.7zz.cn:443#VPS789优选 | cdn.7zz.cn
 cfplus.255520.xyz:443#VPS789优选 | cfplus.255520.xyz
 prompt.gzcrtw.com:443#VPS789优选 | prompt.gzcrtw.com
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
-play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 neko.cloudflaree.eu.org:443#VPS789优选 | neko.cloudflaree.eu.org
 www.dbs.com.sg:443#VPS789优选 | www.dbs.com.sg
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
@@ -48,5 +44,9 @@ cf.godns.cc:443#VPS789优选 | cf.godns.cc
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 p.etime.vip:443#VPS789优选 | p.etime.vip
 bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
+a.lma.de5.net:443#VPS789优选 | a.lma.de5.net
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
+cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
+cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
+avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
