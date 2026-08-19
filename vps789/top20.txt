@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 08-20 06:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 08-20 07:41 | BestCF.pages.dev
 cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 www.fastsoso.cn:443#VPS789优选 | www.fastsoso.cn
@@ -8,9 +8,9 @@ uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#VPS789优选 | eteaf.cf.3666888.xyz
 11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
-cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 cdn.204910.best:443#VPS789优选 | cdn.204910.best
+cf.godns.cc:443#VPS789优选 | cf.godns.cc
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
