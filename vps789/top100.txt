@@ -1,6 +1,5 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 08-21 07:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 08-21 07:41 | BestCF.pages.dev
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
-saas.sin.fan:443#VPS789优选 | saas.sin.fan
 www.fastsoso.cn:443#VPS789优选 | www.fastsoso.cn
 bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
 cdn.cf.3666888.xyz:443#VPS789优选 | cdn.cf.3666888.xyz
@@ -17,6 +16,7 @@ eteaf.cf.3666888.xyz:443#VPS789优选 | eteaf.cf.3666888.xyz
 www.galgamex.net:443#VPS789优选 | www.galgamex.net
 www.mfyx.cn:443#VPS789优选 | www.mfyx.cn
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
+saas.sin.fan:443#VPS789优选 | saas.sin.fan
 cdn.204910.best:443#VPS789优选 | cdn.204910.best
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
@@ -70,19 +70,21 @@ edgeone.gh-proxy.org:443#VPS789优选 | edgeone.gh-proxy.org
 www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 www.epicgames.com:443#VPS789优选 | www.epicgames.com
 store.ubi.com:443#VPS789优选 | store.ubi.com
-dnew.cc:443#VPS789优选 | dnew.cc
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
 yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
+cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 cf.neko.cloudflaree.eu.org:443#VPS789优选 | cf.neko.cloudflaree.eu.org
 www.visa.com.hk:443#VPS789优选 | www.visa.com.hk
 redis.io:443#VPS789优选 | redis.io
-cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
+dnew.cc:443#VPS789优选 | dnew.cc
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
+www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
 cf1.v8.longsays.com:443#VPS789优选 | cf1.v8.longsays.com
+oo.xzhi.eu.org:443#VPS789优选 | oo.xzhi.eu.org
 www.dbs.com.sg:443#VPS789优选 | www.dbs.com.sg
 nrtcfdns.zone.id:443#VPS789优选 | nrtcfdns.zone.id
 nrt.xxxxxxxx.nyc.mn:443#VPS789优选 | nrt.xxxxxxxx.nyc.mn
@@ -90,13 +92,11 @@ bestcfv4.030101.xyz:443#VPS789优选 | bestcfv4.030101.xyz
 p.etime.vip:443#VPS789优选 | p.etime.vip
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 a.lma.de5.net:443#VPS789优选 | a.lma.de5.net
-www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
+china-unicom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-unicom.cname.cloudflare.468123.xyz
+markmonitor.com:443#VPS789优选 | markmonitor.com
 chrono24.com:443#VPS789优选 | chrono24.com
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 cf.neko.cloudd.eu.org:443#VPS789优选 | cf.neko.cloudd.eu.org
-oo.xzhi.eu.org:443#VPS789优选 | oo.xzhi.eu.org
 images.chesscomfiles.com:443#VPS789优选 | images.chesscomfiles.com
 www.shopify.com:443#VPS789优选 | www.shopify.com
-virtualcommtraining.verizon.com:443#VPS789优选 | virtualcommtraining.verizon.com
-isp.254301.xyz:443#VPS789优选 | isp.254301.xyz
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
