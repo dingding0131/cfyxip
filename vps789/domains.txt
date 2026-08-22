@@ -85,7 +85,6 @@ isp.254301.xyz
 www.xiaoshuofen.com
 cmcc.cc.cd
 www.carousell.sg
-cdn.2x.nz
 www.vastnovel.com
 www.akasantech.com
 www.giannidelprete.it
@@ -104,6 +103,7 @@ qocu.cf.3666888.xyz
 cf-ip-site.vov.moe
 investor.apple.com
 chinwa.cf.090227.xyz
+cdn.2x.nz
 www.sloomb.com
 cfip-ct.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci
