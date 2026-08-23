@@ -1,17 +1,17 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 08-23 09:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 08-23 10:11 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
 youxuan.cf.090227.xyz:443#VPS789优选 | youxuan.cf.090227.xyz
 cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 4.cf.3666888.xyz:443#VPS789优选 | 4.cf.3666888.xyz
 yg4.ygkkk.dpdns.org:443#VPS789优选 | yg4.ygkkk.dpdns.org
+chinwa.cf.090227.xyz:443#VPS789优选 | chinwa.cf.090227.xyz
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 www.5h.com:443#VPS789优选 | www.5h.com
 adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
 eii.at:443#VPS789优选 | eii.at
 ctsg.cfyx.aliyun.20237737.xyz:443#VPS789优选 | ctsg.cfyx.aliyun.20237737.xyz
-cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
 www.090902.xyz:443#VPS789优选 | www.090902.xyz
 www.udacity.com:443#VPS789优选 | www.udacity.com
 cf.877771.xyz:443#VPS789优选 | cf.877771.xyz
@@ -22,13 +22,11 @@ staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 cf.130519.xyz:443#VPS789优选 | cf.130519.xyz
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
 linear.app:443#VPS789优选 | linear.app
-spring.io:443#VPS789优选 | spring.io
 m.iyf.tv:443#VPS789优选 | m.iyf.tv
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
 sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
-2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#VPS789优选 | eteaf.cf.3666888.xyz
@@ -39,14 +37,16 @@ yg2.ygkkk.dpdns.org:443#VPS789优选 | yg2.ygkkk.dpdns.org
 www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 uspto.gov:443#VPS789优选 | uspto.gov
-chinwa.cf.090227.xyz:443#VPS789优选 | chinwa.cf.090227.xyz
 www.blibli.com:443#VPS789优选 | www.blibli.com
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
 www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
 cf.553314.xyz:443#VPS789优选 | cf.553314.xyz
+cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
 neko.cloudflaree.eu.org:443#VPS789优选 | neko.cloudflaree.eu.org
 oo.xzhi.eu.org:443#VPS789优选 | oo.xzhi.eu.org
 cdn.wzkf88.com:443#VPS789优选 | cdn.wzkf88.com
 cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
+openai.com:443#VPS789优选 | openai.com
+fn.130519.xyz:443#VPS789优选 | fn.130519.xyz
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
