@@ -1,10 +1,10 @@
-162.159.198.1:8443#VPS789优选域名 TOP20 | 08-25 18:11 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP20 | 08-25 18:41 | BestCF.pages.dev
 bbs.alipansou.com:8443#VPS789优选 | bbs.alipansou.com
 guide.for.edu.sg:8443#VPS789优选 | guide.for.edu.sg
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 www.vmware.com:8443#VPS789优选 | www.vmware.com
-youxuan.cf.3666888.xyz:8443#VPS789优选 | youxuan.cf.3666888.xyz
+2.cf.3666888.xyz:8443#VPS789优选 | 2.cf.3666888.xyz
 qocu.cf.3666888.xyz:8443#VPS789优选 | qocu.cf.3666888.xyz
 edgeone.gh-proxy.org:8443#VPS789优选 | edgeone.gh-proxy.org
 cloudflare-ip.mofashi.ltd:8443#VPS789优选 | cloudflare-ip.mofashi.ltd
