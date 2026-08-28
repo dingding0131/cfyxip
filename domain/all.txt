@@ -1,6 +1,7 @@
-162.159.197.1:8443#EDT导航优选域名 | BestCF.pages.dev
-162.159.198.1:443#官方入口 | MASQUE
+162.159.198.1:8443#EDT导航优选域名 | BestCF.pages.dev
 162.159.197.1:443#官方入口 | ZeroTrust
+162.159.198.1:443#官方入口 | MASQUE1
+162.159.199.1:443#官方入口 | MASQUE2
 162.159.193.1:443#官方入口 | WireGuard
 store.ubi.com:443#企业域名 | 育碧商城
 serviceshub.samsclub.com:443#企业域名 | 山姆会员
@@ -79,4 +80,4 @@ cu.877774.xyz:443#按运营商 | 联通QMS
 cu.cloudflare.byoip.top:443#按运营商 | 联通Byoip
 cmcc.877774.xyz:443#按运营商 | 移动QMS
 cm.cloudflare.byoip.top:443#按运营商 | 移动Byoip
-162.159.198.1:8443#优选域名 | 8-10 | 分享免费优选网BestCF.pages.dev
+162.159.197.1:8443#优选域名 | 8-28 | 分享免费优选网BestCF.pages.dev
