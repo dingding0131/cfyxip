@@ -49,6 +49,6 @@ vernesong/mihomo|Pre-release
 xiaobaigroup/ClashBox|1.7.4|2026-04-02
 xinggaoya/sing-box-windows|2.3.1|2026-06-17
 xishang0128/sparkle|1.26.7|2026-07-31
-yabi-zzh/HoKit|1.8.5|2026-08-15
+yabi-zzh/HoKit|1.8.6|2026-08-29
 yanue/v2rayu|5.2.0|2026-08-02
 yaog6700-bit/Swell-Proxy|3.3.2|2026-08-12
