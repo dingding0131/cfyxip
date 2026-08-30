@@ -8,7 +8,7 @@ GtxFury/FlyClash-Android|0.2.1.8-Alpha|2026-08-02
 Happ-proxy/happ-desktop|4.1.2|2026-08-28
 Juwan-Hwang/Zephyr|2.4.4|2026-08-22
 KaringX/karing|1.2.23.2606|2026-08-05
-Kindness-Kismet/stelliberty|2.0.28|2026-08-27
+Kindness-Kismet/stelliberty|2.0.29|2026-08-30
 MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
 MetaCubeX/ClashMetaForAndroid|2.11.33|2026-08-16
 MetaCubeX/ClashX.Meta|1.4.44|2026-08-16
@@ -18,7 +18,7 @@ Openwrt-Passwall/openwrt-passwall|26.8.26-1|2026-08-26
 Openwrt-Passwall/openwrt-passwall2|26.8.27-1|2026-08-27
 PhoenixNil/XrayUI-dev|1.18|2026-07-26
 RoperYoung/clash-mihomo-for-haymonyos|2.11.27-meta-harmony-r1|2026-05-25
-SagerNet/sing-box|1.13.20|2026-08-29
+SagerNet/sing-box|1.13.21|2026-08-30
 Sitoi/ClashBar|0.3.2|2026-07-19
 XTLS/Xray-core|26.3.27|2026-03-28
 Zzz-IT/GoclashZ|1.2.4|2026-08-10
