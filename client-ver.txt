@@ -1,6 +1,6 @@
 2dust/v2rayN|7.24.9|2026-08-29
 2dust/v2rayNG|2.2.6|2026-07-05
-666OS/ClashMac|27.1.3|2026-09-04
+666OS/ClashMac|27.1.4|2026-09-04
 GUI-for-Cores/GUI.for.Clash|1.26.1|2026-07-21
 GUI-for-Cores/GUI.for.SingBox|1.26.1|2026-07-21
 GtxFury/FlyClash|0.2.9|2026-05-17
@@ -44,7 +44,7 @@ snakem982/Pandora-Box|1.0.23|2026-08-22
 songzhengpei/Slclash|2.1.5|2026-09-02
 throneproj/Throne|1.2.4|2026-08-09
 v2fly/v2ray-core|5.53.0|2026-08-03
-v2rayA/v2rayA|2.4.16|2026-08-26
+v2rayA/v2rayA|2.4.17|2026-09-04
 vernesong/OpenClash|0.47.156|2026-08-10
 vernesong/mihomo|Pre-release
 xiaobaigroup/ClashBox|1.7.4|2026-04-02
