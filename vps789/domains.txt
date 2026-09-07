@@ -107,7 +107,6 @@ cfvip.cf.3666888.xyz
 4.cf.3666888.xyz
 china-telecom.cname.cloudflare.468123.xyz
 www.xflash.vip
-shen6011.pages.dev
 cf.v8.longsays.com
 cf.877771.xyz
 gitlab.com
@@ -122,6 +121,7 @@ cfyx.qdqqd.com
 8.cf.3666888.xyz
 greim.no
 ct.721660.xyz
+shen6011.pages.dev
 digitalocean.com
 www.visa.com.sg
 absen.com
@@ -133,6 +133,7 @@ coreweave.com
 rocketreach.co
 pure.coupert.com
 111.cf.cname.vvhan.com
+cloudflare.468123.xyz
 markmonitor.com
 trump.com
 kali.download
@@ -156,7 +157,6 @@ yg12.ygkkk.dpdns.org
 ikankeji.com
 kniu.cc
 china-mobile.cname.cloudflare.468123.xyz
-cloudflare.468123.xyz
 dns.163189.xyz
 www.trumpgolf.com
 4gxb7l7p40.cloudflare-gateway.com
