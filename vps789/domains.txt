@@ -107,6 +107,7 @@ cfvip.cf.3666888.xyz
 4.cf.3666888.xyz
 china-telecom.cname.cloudflare.468123.xyz
 www.xflash.vip
+cloudflare-ip.mofashi.ltd
 cf.v8.longsays.com
 cf.877771.xyz
 gitlab.com
@@ -125,13 +126,12 @@ shen6011.pages.dev
 digitalocean.com
 www.visa.com.sg
 absen.com
-yg7.ygkkk.dpdns.org
 cdns.doon.eu.org
 666.cf.cname.vvhan.com
 www.hypixel.net
-coreweave.com
 rocketreach.co
 pure.coupert.com
+yg7.ygkkk.dpdns.org
 111.cf.cname.vvhan.com
 cloudflare.468123.xyz
 markmonitor.com
@@ -149,6 +149,7 @@ time.is
 cloudflare.cfgo.cc
 cmcc.877774.xyz
 go1.dematic.com
+coreweave.com
 bitsight.com
 unpkg.com
 challenges.cloudflare.com
@@ -167,12 +168,12 @@ virtualcommtraining.verizon.com
 codeforces.com
 scalacube.com
 worldvectorlogo.com
+noc.one
 cdnjs.loli.net
 cfip.1323123.xyz
 visa.com
 cf.877774.xyz
 aqua-aria.company
-www.5199dy.com
 dynadot.com
 aftership.com
 themeisle.com
@@ -185,9 +186,9 @@ www.revechat.com
 yg4.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org
 cmcc.hw.090227.xyz
-www.6i5.com
 newsroom.avalara.com
 01-qq.com
+yx.cf.090227.xyz
 cf1.v8.longsays.com
 grass.io
 dongbanghong.com
@@ -197,4 +198,3 @@ garuda-indonesia.com
 zj.7star.eu.cc
 ip.sb
 i.pages.dev
-cdnjs.com
