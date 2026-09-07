@@ -108,6 +108,7 @@ china-telecom.cname.cloudflare.468123.xyz
 www.xflash.vip
 shen6011.pages.dev
 cf.v8.longsays.com
+bestcf.030101.xyz
 cf.877771.xyz
 gitlab.com
 fbi.gov
@@ -122,11 +123,11 @@ cfyx.qdqqd.com
 greim.no
 ct.721660.xyz
 mail.murata.com
+cdn.fiatnorm.us.kg
 digitalocean.com
 www.visa.com.sg
 absen.com
 bestcf.top
-bestcf.030101.xyz
 666.cf.cname.vvhan.com
 www.hypixel.net
 coreweave.com
@@ -161,7 +162,6 @@ china-mobile.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz
 www.trumpgolf.com
 4gxb7l7p40.cloudflare-gateway.com
-cdn.fiatnorm.us.kg
 s.ee
 www.loc.gov
 aandd.co.jp
