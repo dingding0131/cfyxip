@@ -1,7 +1,5 @@
 avido.cf.3666888.xyz
-nexusmods.com
 sanwang.cf.3666888.xyz
-sg.cf.3666888.xyz
 3.cf.3666888.xyz
 5.cf.3666888.xyz
 test.509666.xyz
@@ -10,18 +8,19 @@ cfip-cm.stoeaves.us.ci
 cdn.fiatnorm.us.kg
 oo.xzhi.eu.org
 www.dbs.com.sg
-cf-cname.xingpingcn.top
 www.udacity.com
 cfsaas.080112.xyz
 cf.130519.xyz
 linear.app
 gh-proxy.com
+nexusmods.com
 constitution.congress.gov
 www.mc.js.cool
 www.crazygames.fr
 www.leics.police.uk
 pwjbl.me
 youxuan.cf.3666888.xyz
+sg.cf.3666888.xyz
 jp.cf.3666888.xyz
 vip.cf.3666888.xyz
 cloudflare.rainyfall.com
@@ -41,7 +40,9 @@ ctsg.cfyx.aliyun.20237737.xyz
 www.vastnovel.com
 prompt.gzcrtw.com
 cfip-ct.stoeaves.us.ci
+131.youxuan.cf.090227.xyz
 edgeone.gh-proxy.org
+cf-cname.xingpingcn.top
 www.shopify.com
 openai.com
 fn.130519.xyz
@@ -91,9 +92,7 @@ www.galgamex.net
 www.bangbenjiaju.com
 hzytjy.cn
 imooo.de
-markmonitor.com
 chrono24.com
-131.youxuan.cf.090227.xyz
 funko.com
 investor.apple.com
 tuite-c0f.pages.dev
@@ -107,10 +106,10 @@ cfvip.cf.3666888.xyz
 2.cf.3666888.xyz
 4.cf.3666888.xyz
 china-telecom.cname.cloudflare.468123.xyz
+markmonitor.com
 www.xflash.vip
 shen6011.pages.dev
 cf.v8.longsays.com
-bestcf.030101.xyz
 cf.877771.xyz
 gitlab.com
 fbi.gov
@@ -128,6 +127,7 @@ digitalocean.com
 www.visa.com.sg
 absen.com
 yg7.ygkkk.dpdns.org
+bestcf.030101.xyz
 666.cf.cname.vvhan.com
 www.hypixel.net
 coreweave.com
@@ -142,6 +142,7 @@ nist.gov
 vayyar.com
 9mod.com
 www.redboxtools.com
+challenges.cloudflare.com
 china-unicom.cname.cloudflare.468123.xyz
 dns.163189.xyz
 bestcf.top
@@ -152,7 +153,6 @@ cmcc.877774.xyz
 go1.dematic.com
 bitsight.com
 unpkg.com
-challenges.cloudflare.com
 yg1.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org
 ikankeji.com
@@ -160,7 +160,6 @@ kniu.cc
 china-mobile.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz
 www.trumpgolf.com
-mail.murata.com
 4gxb7l7p40.cloudflare-gateway.com
 s.ee
 www.loc.gov
@@ -177,7 +176,6 @@ aqua-aria.company
 www.5199dy.com
 dynadot.com
 aftership.com
-w3.org
 themeisle.com
 networksolutions.com
 qoj.ac
@@ -198,3 +196,5 @@ dongbanghong.com
 cf.553314.xyz
 yd.hhhhh.eu.org
 garuda-indonesia.com
+zj.7star.eu.cc
+ip.sb
