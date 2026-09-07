@@ -107,6 +107,7 @@ cfvip.cf.3666888.xyz
 4.cf.3666888.xyz
 china-telecom.cname.cloudflare.468123.xyz
 www.xflash.vip
+dexari.com
 cloudflare-ip.mofashi.ltd
 cf.v8.longsays.com
 cf.877771.xyz
@@ -115,13 +116,12 @@ fbi.gov
 jquery.com
 sourceforge.net
 www.bis.gov
-dexari.com
 cf1s.cf.3666888.xyz
-youxuan.cf.636949.xyz
 cfyx.qdqqd.com
 8.cf.3666888.xyz
 greim.no
 ct.721660.xyz
+kali.download
 shen6011.pages.dev
 digitalocean.com
 www.visa.com.sg
@@ -131,12 +131,12 @@ cdns.doon.eu.org
 www.hypixel.net
 rocketreach.co
 pure.coupert.com
+youxuan.cf.636949.xyz
 yg7.ygkkk.dpdns.org
 111.cf.cname.vvhan.com
 cloudflare.468123.xyz
 markmonitor.com
 trump.com
-kali.download
 cf.xreak.top
 i.111666.best
 nist.gov
@@ -174,6 +174,7 @@ cfip.1323123.xyz
 visa.com
 cf.877774.xyz
 aqua-aria.company
+ip.skk.moe
 dynadot.com
 aftership.com
 themeisle.com
@@ -197,4 +198,3 @@ yd.hhhhh.eu.org
 garuda-indonesia.com
 zj.7star.eu.cc
 ip.sb
-i.pages.dev
