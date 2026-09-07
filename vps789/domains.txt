@@ -6,7 +6,7 @@ sg.cf.3666888.xyz
 3.cf.3666888.xyz
 5.cf.3666888.xyz
 test.509666.xyz
-yg1.ygkkk.dpdns.org
+www.mfyx.cn
 oo.xzhi.eu.org
 www.dbs.com.sg
 cf-cname.xingpingcn.top
@@ -21,6 +21,7 @@ youxuan.cf.3666888.xyz
 jp.cf.3666888.xyz
 vip.cf.3666888.xyz
 cloudflare.rainyfall.com
+qocu.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 6.cf.3666888.xyz
@@ -28,7 +29,6 @@ hfqek.cf.3666888.xyz
 yg5.ygkkk.dpdns.org
 www.broadcom.com
 www.xiaoshuofen.com
-www.mfyx.cn
 cmcc.cc.cd
 cdn.091224.xyz
 chinwa.cf.090227.xyz
@@ -59,7 +59,6 @@ hk.cf.3666888.xyz
 cf.cf.3666888.xyz
 cdn.555586.xyz
 123.cf.3666888.xyz
-qocu.cf.3666888.xyz
 adnjv.cf.3666888.xyz
 1.cf.3666888.xyz
 10.cf.3666888.xyz
@@ -84,6 +83,7 @@ m.iyf.tv
 uac.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 7.cf.3666888.xyz
+yg1.ygkkk.dpdns.org
 www.nexusmods.com
 www.galgamex.net
 www.bangbenjiaju.com
@@ -93,6 +93,8 @@ markmonitor.com
 chrono24.com
 funko.com
 investor.apple.com
+tuite-c0f.pages.dev
+cmcc.090227.xyz
 dash.cloudflare.com
 bestcfv4.030101.xyz
 www.ox.ac.uk
@@ -104,10 +106,7 @@ cfvip.cf.3666888.xyz
 4.cf.3666888.xyz
 china-telecom.cname.cloudflare.468123.xyz
 www.xflash.vip
-pages.cloudflare.com
-tuite-c0f.pages.dev
 shen6011.pages.dev
-cmcc.090227.xyz
 cf.v8.longsays.com
 cf.877771.xyz
 gitlab.com
@@ -139,11 +138,14 @@ dns.163189.xyz
 trump.com
 kali.download
 i.111666.best
+pages.cloudflare.com
+nist.gov
 9mod.com
 www.redboxtools.com
 china-unicom.cname.cloudflare.468123.xyz
 cdns.doon.eu.org
 time.is
+cf.877774.xyz
 cloudflare.cfgo.cc
 cmcc.877774.xyz
 virtualcommtraining.verizon.com
@@ -152,16 +154,15 @@ coreweave.com
 bitsight.com
 w3.org
 unpkg.com
-www.elysee.fr
 qoj.ac
 challenges.cloudflare.com
 yg12.ygkkk.dpdns.org
 ikankeji.com
+kniu.cc
 china-mobile.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz
 elron.ee
 www.trumpgolf.com
-cf.553314.xyz
 4gxb7l7p40.cloudflare-gateway.com
 cdn.fiatnorm.us.kg
 s.ee
@@ -173,7 +174,6 @@ scalacube.com
 cdnjs.loli.net
 cfip.1323123.xyz
 visa.com
-cf.877774.xyz
 aqua-aria.company
 www.5199dy.com
 dynadot.com
@@ -181,12 +181,13 @@ www.wto.org
 aftership.com
 themeisle.com
 networksolutions.com
+www.elysee.fr
 buyshoes.shop
 www.meteorelectrical.com
 www.canadatype.com
 www.revechat.com
 yg4.ygkkk.dpdns.org
-kniu.cc
+yg9.ygkkk.dpdns.org
 cmcc.hw.090227.xyz
 www.6i5.com
 newsroom.avalara.com
@@ -194,7 +195,6 @@ newsroom.avalara.com
 cf1.v8.longsays.com
 grass.io
 dongbanghong.com
+cf.553314.xyz
 131.youxuan.cf.090227.xyz
 garuda-indonesia.com
-i.pages.dev
-cdnjs.com
