@@ -78,6 +78,7 @@ prizepicks.com
 cfip-avg.stoeaves.us.ci
 coke.cf.3666888.xyz
 www.deepl.com
+yfvsdf.cf.3666888.xyz
 www.ntu.edu.sg
 cf-cname.xingpingcn.top
 cf.godns.cc
@@ -94,6 +95,7 @@ hzytjy.cn
 imooo.de
 chrono24.com
 funko.com
+cf.yj250.bond
 investor.apple.com
 tuite-c0f.pages.dev
 cmcc.090227.xyz
@@ -138,7 +140,6 @@ cloudflare.468123.xyz
 markmonitor.com
 trump.com
 cf.xreak.top
-cf.yj250.bond
 i.111666.best
 nist.gov
 vayyar.com
@@ -150,7 +151,6 @@ bestcf.top
 time.is
 cloudflare.cfgo.cc
 cmcc.877774.xyz
-virtualcommtraining.verizon.com
 go1.dematic.com
 coreweave.com
 bitsight.com
@@ -166,6 +166,7 @@ www.trumpgolf.com
 s.ee
 www.loc.gov
 aandd.co.jp
+virtualcommtraining.verizon.com
 codeforces.com
 qoj.ac
 www.meteorelectrical.com
@@ -188,7 +189,6 @@ yg4.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org
 cmcc.hw.090227.xyz
 newsroom.avalara.com
-01-qq.com
 yx.cf.090227.xyz
 cf1.v8.longsays.com
 grass.io
