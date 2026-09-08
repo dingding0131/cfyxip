@@ -23,11 +23,13 @@ store.ubi.com
 linear.app
 cf.3666888.xyz
 gh-proxy.com
+nexusmods.com
 www.sage.com
 www.vmware.com
 m.iyf.tv
 pwjbl.me
 cdn.cf.3666888.xyz
+sg.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 cloudflare.rainyfall.com
 2.cf.3666888.xyz
@@ -57,7 +59,6 @@ coke.cf.3666888.xyz
 oo.xzhi.eu.org
 cf-cname.xingpingcn.top
 cfyx.aliyun.20237737.xyz
-nexusmods.com
 spring.io
 dnew.cc
 www.mc.js.cool
@@ -65,7 +66,6 @@ www.crazygames.fr
 www.leics.police.uk
 keji.cf.3666888.xyz
 hk.cf.3666888.xyz
-sg.cf.3666888.xyz
 jp.cf.3666888.xyz
 cf.cf.3666888.xyz
 123.cf.3666888.xyz
@@ -80,7 +80,6 @@ www.xflash.vip
 www.dg22.top
 prompt.gzcrtw.com
 cf.92555.xyz
-cdn.fiatnorm.us.kg
 yfvsdf.cf.3666888.xyz
 openai.com
 www.5199dy.com
@@ -108,7 +107,9 @@ eteaf.cf.3666888.xyz
 5.cf.3666888.xyz
 cmcc.cc.cd
 imooo.de
+markmonitor.com
 cf.yj250.bond
+centerofthewest.org
 pure.coupert.com
 grass.io
 time.is
@@ -121,12 +122,11 @@ cf.998866.top
 1.cf.3666888.xyz
 hzytjy.cn
 china-telecom.cname.cloudflare.468123.xyz
-markmonitor.com
 dongbanghong.com
 cfip-cu.stoeaves.us.ci
+cdn.fiatnorm.us.kg
 registry.yarnpkg.com
 www.visa.com.sg
-centerofthewest.org
 sourceforge.net
 clickhouse.com
 9mod.com
@@ -147,6 +147,7 @@ cdn.2x.nz
 cfip-avg.stoeaves.us.ci
 ip.sb
 mskcc.org
+journeys.com
 mvnrepository.com
 unpkg.com
 rocketreach.co
@@ -169,10 +170,8 @@ cf.vvhan.com
 s.ee
 www.loc.gov
 cf.xreak.top
-cdnjs.com
 japan.com
 www.hugedomains.com
-journeys.com
 absen.com
 yg12.ygkkk.dpdns.org
 worldvectorlogo.com
@@ -181,7 +180,7 @@ dash.cloudflare.com
 ping.pe
 v.recipes
 ip.skk.moe
-yxip.xxxxxxxx.tk
+cdnjs.com
 cmcc.877774.xyz
 www.hypixel.net
 guide.for.edu.sg
@@ -198,3 +197,4 @@ china-unicom.cname.cloudflare.468123.xyz
 newsroom.avalara.com
 www.trumpgolf.com
 ct.721660.xyz
+www.giannidelprete.it
