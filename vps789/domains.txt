@@ -4,12 +4,10 @@ qocu.cf.3666888.xyz
 prizepicks.com
 cloudflare-ip.mofashi.ltd
 cdns.doon.eu.org
-linear.app
 ahrefs.com
 youxuan.cf.3666888.xyz
 sanwang.cf.3666888.xyz
 cf1s.cf.3666888.xyz
-123.cf.3666888.xyz
 avido.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 3.cf.3666888.xyz
@@ -20,10 +18,10 @@ www.vastnovel.com
 cfip-ct.stoeaves.us.ci
 play.mc.js.cool
 edgeone.gh-proxy.org
-oo.xzhi.eu.org
 www.deepl.com
 www.shopify.com
 store.ubi.com
+linear.app
 cf.3666888.xyz
 gh-proxy.com
 www.sage.com
@@ -32,6 +30,7 @@ pwjbl.me
 cdn.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 cloudflare.rainyfall.com
+123.cf.3666888.xyz
 2.cf.3666888.xyz
 uac.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
@@ -56,7 +55,7 @@ coke.cf.3666888.xyz
 131.youxuan.cf.090227.xyz
 4gxb7l7p40.cloudflare-gateway.com
 cdn.fiatnorm.us.kg
-yfvsdf.cf.3666888.xyz
+oo.xzhi.eu.org
 cf-cname.xingpingcn.top
 staticdelivery.nexusmods.com
 cfyx.aliyun.20237737.xyz
@@ -84,6 +83,7 @@ www.xflash.vip
 www.dg22.top
 prompt.gzcrtw.com
 cf.92555.xyz
+yfvsdf.cf.3666888.xyz
 openai.com
 www.5199dy.com
 cf.130519.xyz
@@ -116,6 +116,7 @@ time.is
 fbi.gov
 p.etime.vip
 cdnjs.cloudflare.com
+cfdl.3666888.xyz
 hfqek.cf.3666888.xyz
 1.cf.3666888.xyz
 yg1.ygkkk.dpdns.org
@@ -137,14 +138,13 @@ cf.877771.xyz
 dynadot.com
 www.botafogo.com.br
 support.communilink.net
-cfdl.3666888.xyz
+cf.998866.top
 7.cf.3666888.xyz
 cloudflare.468123.xyz
 api.cloudflare.com
 cfip-avg.stoeaves.us.ci
 cfip-cu.stoeaves.us.ci
 ip.sb
-www.hugedomains.com
 mskcc.org
 mvnrepository.com
 rocketreach.co
@@ -157,8 +157,8 @@ jquery.com
 envato.com
 unpkg.com
 codeforces.com
-cf.998866.top
 yg5.ygkkk.dpdns.org
+www.sofi.com
 111.cf.cname.vvhan.com
 investorrelations.medtronic.com
 www.apnic.net
@@ -169,17 +169,16 @@ s.ee
 www.loc.gov
 cdnjs.com
 japan.com
+www.hugedomains.com
 journeys.com
 hubspot.com
 absen.com
-challenges.cloudflare.com
 yg12.ygkkk.dpdns.org
 worldvectorlogo.com
 cnamefuckxxs.yuchen.icu
 dash.cloudflare.com
 ping.pe
 v.recipes
-666.cf.cname.vvhan.com
 yxip.xxxxxxxx.tk
 cmcc.877774.xyz
 www.hypixel.net
@@ -190,7 +189,6 @@ themeisle.com
 www.timbuktutravel.com
 hsl.upstate.edu
 moondroplab.com
-www.sofi.com
 store.ubisoft.com
 china-unicom.cname.cloudflare.468123.xyz
 newsroom.avalara.com
@@ -198,3 +196,5 @@ www.trumpgolf.com
 ct.721660.xyz
 www.giannidelprete.it
 chrono24.com
+cf.553314.xyz
+crypto.cloudflare.com
