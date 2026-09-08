@@ -24,6 +24,7 @@ linear.app
 cf.3666888.xyz
 gh-proxy.com
 www.sage.com
+www.vmware.com
 m.iyf.tv
 pwjbl.me
 cdn.cf.3666888.xyz
@@ -37,6 +38,7 @@ isp.254301.xyz
 10.cf.3666888.xyz
 11.cf.3666888.xyz
 test.509666.xyz
+yg1.ygkkk.dpdns.org
 yg2.ygkkk.dpdns.org
 yg4.ygkkk.dpdns.org
 www.nexusmods.com
@@ -60,7 +62,6 @@ nexusmods.com
 spring.io
 dnew.cc
 www.mc.js.cool
-www.vmware.com
 www.crazygames.fr
 www.leics.police.uk
 keji.cf.3666888.xyz
@@ -72,7 +73,6 @@ cf.cf.3666888.xyz
 6.cf.3666888.xyz
 8.cf.3666888.xyz
 9.cf.3666888.xyz
-yg1.ygkkk.dpdns.org
 yg8.ygkkk.dpdns.org
 securecircle.com
 cf.468123.xyz
@@ -90,7 +90,6 @@ cf.godns.cc
 youxuan.cf.090227.xyz
 vip.cf.3666888.xyz
 adnjv.cf.3666888.xyz
-eteaf.cf.3666888.xyz
 www.bangbenjiaju.com
 chinwa.cf.090227.xyz
 ctsg.cfyx.aliyun.20237737.xyz
@@ -105,6 +104,7 @@ fn.130519.xyz
 cu.877774.xyz
 www.jimdo.com
 cdn.555586.xyz
+eteaf.cf.3666888.xyz
 5.cf.3666888.xyz
 cmcc.cc.cd
 hzytjy.cn
@@ -119,7 +119,6 @@ cdnjs.cloudflare.com
 cfdl.3666888.xyz
 hfqek.cf.3666888.xyz
 1.cf.3666888.xyz
-www.galgamex.net
 china-telecom.cname.cloudflare.468123.xyz
 markmonitor.com
 dongbanghong.com
@@ -141,6 +140,7 @@ www.botafogo.com.br
 support.communilink.net
 cf.998866.top
 7.cf.3666888.xyz
+www.galgamex.net
 cloudflare.468123.xyz
 api.cloudflare.com
 cfip-avg.stoeaves.us.ci
@@ -173,7 +173,6 @@ cdnjs.com
 japan.com
 www.hugedomains.com
 journeys.com
-hubspot.com
 absen.com
 yg12.ygkkk.dpdns.org
 worldvectorlogo.com
@@ -187,6 +186,7 @@ www.hypixel.net
 guide.for.edu.sg
 crowdstrike.com
 aftership.com
+hubspot.com
 themeisle.com
 www.timbuktutravel.com
 hsl.upstate.edu
