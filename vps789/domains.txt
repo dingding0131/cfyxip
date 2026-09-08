@@ -54,7 +54,6 @@ www.akasantech.com
 coke.cf.3666888.xyz
 131.youxuan.cf.090227.xyz
 4gxb7l7p40.cloudflare-gateway.com
-cdn.fiatnorm.us.kg
 oo.xzhi.eu.org
 cf-cname.xingpingcn.top
 cfyx.aliyun.20237737.xyz
@@ -81,6 +80,7 @@ www.xflash.vip
 www.dg22.top
 prompt.gzcrtw.com
 cf.92555.xyz
+cdn.fiatnorm.us.kg
 yfvsdf.cf.3666888.xyz
 openai.com
 www.5199dy.com
@@ -148,6 +148,7 @@ cfip-avg.stoeaves.us.ci
 ip.sb
 mskcc.org
 mvnrepository.com
+unpkg.com
 rocketreach.co
 builtbybuffalo.com
 www.meteorelectrical.com
@@ -155,10 +156,8 @@ cf.v8.longsays.com
 go1.dematic.com
 jquery.com
 envato.com
-unpkg.com
 codeforces.com
 yg5.ygkkk.dpdns.org
-www.sofi.com
 111.cf.cname.vvhan.com
 investorrelations.medtronic.com
 www.apnic.net
@@ -193,6 +192,7 @@ themeisle.com
 www.timbuktutravel.com
 hsl.upstate.edu
 moondroplab.com
+www.sofi.com
 store.ubisoft.com
 china-unicom.cname.cloudflare.468123.xyz
 newsroom.avalara.com
