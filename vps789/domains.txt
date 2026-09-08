@@ -58,6 +58,7 @@ coke.cf.3666888.xyz
 131.youxuan.cf.090227.xyz
 4gxb7l7p40.cloudflare-gateway.com
 oo.xzhi.eu.org
+www.5199dy.com
 cfyx.aliyun.20237737.xyz
 spring.io
 dnew.cc
@@ -82,13 +83,11 @@ prompt.gzcrtw.com
 cf.92555.xyz
 yfvsdf.cf.3666888.xyz
 openai.com
-www.5199dy.com
 staticdelivery.nexusmods.com
 cf.130519.xyz
 cf.godns.cc
 youxuan.cf.090227.xyz
 vip.cf.3666888.xyz
-adnjv.cf.3666888.xyz
 www.bangbenjiaju.com
 chinwa.cf.090227.xyz
 markmonitor.com
@@ -111,12 +110,13 @@ imooo.de
 cf.yj250.bond
 centerofthewest.org
 pure.coupert.com
+cfdl.3666888.xyz
 grass.io
 time.is
 fbi.gov
 p.etime.vip
 cdnjs.cloudflare.com
-cfdl.3666888.xyz
+adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 cf.998866.top
 1.cf.3666888.xyz
@@ -148,15 +148,14 @@ ip.sb
 mskcc.org
 journeys.com
 mvnrepository.com
-unpkg.com
 rocketreach.co
 builtbybuffalo.com
 www.meteorelectrical.com
-cmcc.090227.xyz
 cf.v8.longsays.com
 go1.dematic.com
 jquery.com
 envato.com
+unpkg.com
 codeforces.com
 yg5.ygkkk.dpdns.org
 111.cf.cname.vvhan.com
@@ -172,6 +171,7 @@ www.loc.gov
 cf.xreak.top
 japan.com
 www.hugedomains.com
+hubspot.com
 absen.com
 yg12.ygkkk.dpdns.org
 worldvectorlogo.com
@@ -186,7 +186,6 @@ www.hypixel.net
 guide.for.edu.sg
 crowdstrike.com
 aftership.com
-hubspot.com
 themeisle.com
 www.timbuktutravel.com
 hsl.upstate.edu
@@ -198,3 +197,4 @@ www.trumpgolf.com
 ct.721660.xyz
 www.giannidelprete.it
 chrono24.com
+crypto.cloudflare.com
