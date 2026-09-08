@@ -9,7 +9,6 @@ youxuan.cf.3666888.xyz
 sanwang.cf.3666888.xyz
 cf1s.cf.3666888.xyz
 avido.cf.3666888.xyz
-eteaf.cf.3666888.xyz
 3.cf.3666888.xyz
 cdn.7zz.cn
 uspto.gov
@@ -30,7 +29,6 @@ pwjbl.me
 cdn.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 cloudflare.rainyfall.com
-123.cf.3666888.xyz
 2.cf.3666888.xyz
 uac.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
@@ -57,7 +55,6 @@ coke.cf.3666888.xyz
 cdn.fiatnorm.us.kg
 oo.xzhi.eu.org
 cf-cname.xingpingcn.top
-staticdelivery.nexusmods.com
 cfyx.aliyun.20237737.xyz
 nexusmods.com
 spring.io
@@ -71,11 +68,12 @@ hk.cf.3666888.xyz
 sg.cf.3666888.xyz
 jp.cf.3666888.xyz
 cf.cf.3666888.xyz
+123.cf.3666888.xyz
 6.cf.3666888.xyz
 8.cf.3666888.xyz
 9.cf.3666888.xyz
+yg1.ygkkk.dpdns.org
 yg8.ygkkk.dpdns.org
-www.galgamex.net
 securecircle.com
 cf.468123.xyz
 www.carousell.sg
@@ -86,11 +84,13 @@ cf.92555.xyz
 yfvsdf.cf.3666888.xyz
 openai.com
 www.5199dy.com
+staticdelivery.nexusmods.com
 cf.130519.xyz
 cf.godns.cc
 youxuan.cf.090227.xyz
 vip.cf.3666888.xyz
 adnjv.cf.3666888.xyz
+eteaf.cf.3666888.xyz
 www.bangbenjiaju.com
 chinwa.cf.090227.xyz
 ctsg.cfyx.aliyun.20237737.xyz
@@ -119,10 +119,11 @@ cdnjs.cloudflare.com
 cfdl.3666888.xyz
 hfqek.cf.3666888.xyz
 1.cf.3666888.xyz
-yg1.ygkkk.dpdns.org
+www.galgamex.net
 china-telecom.cname.cloudflare.468123.xyz
 markmonitor.com
 dongbanghong.com
+cfip-cu.stoeaves.us.ci
 registry.yarnpkg.com
 www.visa.com.sg
 centerofthewest.org
@@ -143,7 +144,6 @@ cf.998866.top
 cloudflare.468123.xyz
 api.cloudflare.com
 cfip-avg.stoeaves.us.ci
-cfip-cu.stoeaves.us.ci
 ip.sb
 mskcc.org
 mvnrepository.com
@@ -165,8 +165,10 @@ www.apnic.net
 scalacube.com
 cfip-cm.stoeaves.us.ci
 cf.vvhan.com
+1.cloudflare.19931110.xyz
 s.ee
 www.loc.gov
+cf.xreak.top
 cdnjs.com
 japan.com
 www.hugedomains.com
@@ -196,5 +198,3 @@ www.trumpgolf.com
 ct.721660.xyz
 www.giannidelprete.it
 chrono24.com
-cf.553314.xyz
-crypto.cloudflare.com
