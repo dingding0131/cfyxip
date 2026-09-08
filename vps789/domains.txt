@@ -21,6 +21,7 @@ edgeone.gh-proxy.org
 www.deepl.com
 cf-cname.xingpingcn.top
 www.shopify.com
+www.5199dy.com
 store.ubi.com
 linear.app
 cf.3666888.xyz
@@ -58,7 +59,6 @@ coke.cf.3666888.xyz
 131.youxuan.cf.090227.xyz
 4gxb7l7p40.cloudflare-gateway.com
 oo.xzhi.eu.org
-www.5199dy.com
 cfyx.aliyun.20237737.xyz
 spring.io
 dnew.cc
@@ -110,12 +110,12 @@ imooo.de
 cf.yj250.bond
 centerofthewest.org
 pure.coupert.com
-cfdl.3666888.xyz
 grass.io
 time.is
 fbi.gov
 p.etime.vip
 cdnjs.cloudflare.com
+cfdl.3666888.xyz
 adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 cf.998866.top
@@ -152,7 +152,6 @@ unpkg.com
 rocketreach.co
 builtbybuffalo.com
 www.meteorelectrical.com
-cf.v8.longsays.com
 go1.dematic.com
 jquery.com
 envato.com
@@ -171,11 +170,14 @@ www.loc.gov
 cf.xreak.top
 japan.com
 www.hugedomains.com
-hubspot.com
 absen.com
 yg12.ygkkk.dpdns.org
+www.government.is
+dash.domain.digitalplat.org
 worldvectorlogo.com
+digitalocean.com
 cnamefuckxxs.yuchen.icu
+cf.v8.longsays.com
 dash.cloudflare.com
 ping.pe
 v.recipes
@@ -183,9 +185,11 @@ ip.skk.moe
 cdnjs.com
 cmcc.877774.xyz
 www.hypixel.net
+www.wto.org
 guide.for.edu.sg
 crowdstrike.com
 aftership.com
+hubspot.com
 themeisle.com
 www.timbuktutravel.com
 hsl.upstate.edu
@@ -194,7 +198,3 @@ www.sofi.com
 china-unicom.cname.cloudflare.468123.xyz
 newsroom.avalara.com
 www.trumpgolf.com
-ct.721660.xyz
-www.giannidelprete.it
-chrono24.com
-crypto.cloudflare.com
