@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 09-09 15:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 09-09 15:41 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 www.mastervolt.com:443#VPS789优选 | www.mastervolt.com
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
@@ -8,8 +8,7 @@ cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 www.deepl.com:443#VPS789优选 | www.deepl.com
 cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
-www.shopify.com:443#VPS789优选 | www.shopify.com
-ahrefs.com:443#VPS789优选 | ahrefs.com
+www.vmware.com:443#VPS789优选 | www.vmware.com
 m.iyf.tv:443#VPS789优选 | m.iyf.tv
 cdn.cf.3666888.xyz:443#VPS789优选 | cdn.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
@@ -19,4 +18,5 @@ cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
+11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
