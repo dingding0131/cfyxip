@@ -2,18 +2,17 @@ cfsaas.080112.xyz
 www.mastervolt.com
 youxuan.cf.3666888.xyz
 qocu.cf.3666888.xyz
+avido.cf.3666888.xyz
 prizepicks.com
 www.deepl.com
 cdns.doon.eu.org
 cf.3666888.xyz
 www.vmware.com
 m.iyf.tv
-cdn.cf.3666888.xyz
 sanwang.cf.3666888.xyz
 sg.cf.3666888.xyz
 cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz
-avido.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
 3.cf.3666888.xyz
 11.cf.3666888.xyz
@@ -37,6 +36,7 @@ constitution.congress.gov
 www.mc.js.cool
 ahrefs.com
 pwjbl.me
+cdn.cf.3666888.xyz
 2.cf.3666888.xyz
 isp.254301.xyz
 5.cf.3666888.xyz
@@ -45,11 +45,9 @@ isp.254301.xyz
 yg1.ygkkk.dpdns.org
 yg2.ygkkk.dpdns.org
 yg4.ygkkk.dpdns.org
-yg5.ygkkk.dpdns.org
 www.nexusmods.com
 www.bangbenjiaju.com
 greim.no
-cdn.091224.xyz
 www.gov.il
 yx.cf.090227.xyz
 ctsg.cfyx.aliyun.20237737.xyz
@@ -60,6 +58,7 @@ cf.92555.xyz
 oo.xzhi.eu.org
 yfvsdf.cf.3666888.xyz
 store.ubi.com
+staticdelivery.nexusmods.com
 cf.130519.xyz
 cf.godns.cc
 p.etime.vip
@@ -74,9 +73,11 @@ cf.cf.3666888.xyz
 uac.cf.3666888.xyz
 9.cf.3666888.xyz
 test.509666.xyz
+yg5.ygkkk.dpdns.org
 yg8.ygkkk.dpdns.org
 securecircle.com
 www.xiaoshuofen.com
+cdn.091224.xyz
 chinwa.cf.090227.xyz
 cf.468123.xyz
 www.carousell.sg
@@ -85,12 +86,12 @@ cdn.2x.nz
 www.dg22.top
 www.akasantech.com
 prompt.gzcrtw.com
+cfip-avg.stoeaves.us.ci
 coke.cf.3666888.xyz
 i.pages.dev
 www.udacity.com
 openai.com
 cf.877771.xyz
-staticdelivery.nexusmods.com
 dnew.cc
 vip.cf.3666888.xyz
 123.cf.3666888.xyz
@@ -99,7 +100,6 @@ www.broadcom.com
 china-telecom.cname.cloudflare.468123.xyz
 01-cctv.com
 cfplus.255520.xyz
-cfip-avg.stoeaves.us.ci
 funko.com
 1.cloudflare.19931110.xyz
 cf.yj250.bond
@@ -162,6 +162,7 @@ alternativeto.net
 assets.bizclikmedia.net
 s.bookcdn.com
 cdn.2020111.xyz
+ip.skk.moe
 cloudflare.cfgo.cc
 fbi.gov
 cmcc.vvvv.ee
@@ -197,4 +198,3 @@ china-unicom.cname.cloudflare.468123.xyz
 worldvectorlogo.com
 s.ee
 digitalocean.com
-bestcf.top
