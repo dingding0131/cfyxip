@@ -117,6 +117,7 @@ www.dbs.com.sg
 www.mc.js.cool
 absen.com
 www.roche.com
+cloudflare.com
 tracker.metricool.com
 digitalocean.com
 cnamefuckxxs.yuchen.icu
@@ -128,9 +129,11 @@ envato.com
 tinyurl.com
 zoominfo.com
 cdnjs.cloudflare.com
+cf.998866.top
 test.509666.xyz
 111.cf.cname.vvhan.com
 wppaunz.com
+www.galgamex.net
 ikankeji.com
 cnllm.com
 www.mlkj888.com
@@ -155,9 +158,9 @@ aftership.com
 uptimerobot.com
 www.redboxtools.com
 youxuan.cf.636949.xyz
-cf.998866.top
 china.mfa.gov.ua
 www.sofi.com
+chrono24.com
 kick.com
 www.mediafire.com
 images.chesscomfiles.com
@@ -179,6 +182,7 @@ www.hugedomains.com
 journeys.com
 mvnrepository.com
 www.jimdo.com
+clickhouse.com
 store.epicgames.com
 www.petronaftco.com
 yg13.ygkkk.dpdns.org
@@ -194,7 +198,3 @@ registry.yarnpkg.com
 cf.cloudflare.182682.xyz
 assets.bizclikmedia.net
 icook.tw
-gitlab.com
-www.libvio.site
-kwiat.com
-syncfusion.com
