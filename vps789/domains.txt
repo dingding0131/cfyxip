@@ -127,11 +127,13 @@ flightradar24.com
 guide.for.edu.sg
 crowdstrike.com
 envato.com
+hostinger.com
 tinyurl.com
 zoominfo.com
 cdnjs.cloudflare.com
 cf.998866.top
 test.509666.xyz
+www.sofi.com
 111.cf.cname.vvhan.com
 wppaunz.com
 www.galgamex.net
@@ -152,6 +154,7 @@ rocketreach.co
 support.communilink.net
 pure.coupert.com
 yg12.ygkkk.dpdns.org
+cmcc.090227.xyz
 www.visa.com.tw
 pages.cloudflare.com
 blog.raindew.576555.xyz
@@ -159,7 +162,7 @@ aftership.com
 uptimerobot.com
 www.redboxtools.com
 china.mfa.gov.ua
-www.sofi.com
+cloudflare.468123.xyz
 chrono24.com
 kick.com
 www.mediafire.com
@@ -177,7 +180,6 @@ linkvertise.com
 registry.yarnpkg.com
 www.elegantthemes.com
 cf.090227.xyz
-cmcc.090227.xyz
 dash.cloudflare.com
 mfa.gov.ua
 dynadot.com
@@ -190,11 +192,9 @@ store.epicgames.com
 www.petronaftco.com
 yg13.ygkkk.dpdns.org
 101yaoye.com
-cloudflare.468123.xyz
 abuse.cloudflare.com
 www.gov.il
 www.trump.com
 cf.553314.xyz
 cf.92555.xyz
 www.chess.com
-cf.cloudflare.182682.xyz
