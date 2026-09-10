@@ -1,6 +1,5 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 09-10 18:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 09-10 19:12 | BestCF.pages.dev
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
-4.cf.3666888.xyz:443#VPS789优选 | 4.cf.3666888.xyz
 prizepicks.com:443#VPS789优选 | prizepicks.com
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 store.ubi.com:443#VPS789优选 | store.ubi.com
@@ -8,6 +7,7 @@ www.mastervolt.com:443#VPS789优选 | www.mastervolt.com
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
 hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#VPS789优选 | hfqek.cf.3666888.xyz
+4.cf.3666888.xyz:443#VPS789优选 | 4.cf.3666888.xyz
 yg2.ygkkk.dpdns.org:443#VPS789优选 | yg2.ygkkk.dpdns.org
 ctlmt.info:443#VPS789优选 | ctlmt.info
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
