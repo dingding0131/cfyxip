@@ -80,7 +80,6 @@ cfip-cm.stoeaves.us.ci
 yfvsdf.cf.3666888.xyz
 top-fast.cf.3666888.xyz
 cf-cname.xingpingcn.top
-fn.130519.xyz
 cu.877774.xyz
 store.ubi.com
 cfyx.aliyun.20237737.xyz
@@ -100,6 +99,7 @@ www.sloomb.com
 1.cloudflare.19931110.xyz
 www.udacity.com
 cf.877771.xyz
+fn.130519.xyz
 gh-proxy.com
 constitution.congress.gov
 thebeat.gehealthcare.com
@@ -144,7 +144,6 @@ www.ntu.edu.sg
 yxip.xxxxxxxx.tk
 www.hugedomains.com
 mskcc.org
-uptimerobot.com
 clickhouse.com
 9mod.com
 cdnjs.cloudflare.com
@@ -159,6 +158,7 @@ japan.com
 www.whatismyip.com
 elegantthemes.com
 qoj.ac
+uptimerobot.com
 www.meteorelectrical.com
 dexari.com
 yg12.ygkkk.dpdns.org
@@ -175,6 +175,7 @@ themeisle.com
 networksolutions.com
 zoominfo.com
 china-mobile.cname.cloudflare.468123.xyz
+shanghai.mfa.gov.ua
 cfip-cu.stoeaves.us.ci
 pubs.acs.org
 cf.qq.ms
@@ -189,6 +190,7 @@ challenges.cloudflare.com
 www.6i5.com
 china-unicom.cname.cloudflare.468123.xyz
 www.government.is
+crypto.cloudflare.com
 codexradar.com
 nodejs.org
 kali.download
@@ -196,5 +198,3 @@ tracker.metricool.com
 pages.cloudflare.com
 666.cf.cname.vvhan.com
 cmcc.877774.xyz
-go1.dematic.com
-mvnrepository.com
