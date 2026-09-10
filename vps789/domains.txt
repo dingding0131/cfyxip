@@ -55,12 +55,14 @@ markmonitor.com
 www.carousell.sg
 www.vastnovel.com
 www.akasantech.com
+www.deepl.com
 cdns.doon.eu.org
 openai.com
 www.5199dy.com
 cf.godns.cc
 linear.app
 nexusmods.com
+www.ox.ac.uk
 www.vmware.com
 m.iyf.tv
 www.leics.police.uk
@@ -75,7 +77,6 @@ cloudflare.468123.xyz
 www.giannidelprete.it
 cfip-ct.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci
-funko.com
 yfvsdf.cf.3666888.xyz
 top-fast.cf.3666888.xyz
 cf-cname.xingpingcn.top
@@ -84,7 +85,6 @@ cu.877774.xyz
 store.ubi.com
 cfyx.aliyun.20237737.xyz
 spring.io
-www.ox.ac.uk
 sg.cf.3666888.xyz
 cf.cf.3666888.xyz
 2.cf.3666888.xyz
@@ -96,6 +96,7 @@ www.bangbenjiaju.com
 imooo.de
 ctsg.cfyx.aliyun.20237737.xyz
 www.sloomb.com
+funko.com
 1.cloudflare.19931110.xyz
 cf.v8.longsays.com
 www.udacity.com
@@ -143,7 +144,7 @@ registry.npmjs.org
 www.eccu.edu
 cnamefuckxxs.yuchen.icu
 www.ntu.edu.sg
-cmcc.vvvv.ee
+yxip.xxxxxxxx.tk
 www.hugedomains.com
 mskcc.org
 uptimerobot.com
@@ -167,7 +168,7 @@ alternativeto.net
 rankmath.com
 digitalocean.com
 aqua-aria.company
-yxip.xxxxxxxx.tk
+cmcc.vvvv.ee
 crowdstrike.com
 jquery.com
 themeisle.com
@@ -184,7 +185,6 @@ cf.cloudflare.182682.xyz
 cf.777791.xyz
 cdnjs.com
 gitlab.com
-w3.org
 unpkg.com
 challenges.cloudflare.com
 china-unicom.cname.cloudflare.468123.xyz

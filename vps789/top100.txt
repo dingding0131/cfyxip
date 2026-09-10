@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 09-11 04:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 09-11 05:12 | BestCF.pages.dev
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
 securecircle.com:443#VPS789优选 | securecircle.com
 www.blibli.com:443#VPS789优选 | www.blibli.com
@@ -56,12 +56,14 @@ markmonitor.com:443#VPS789优选 | markmonitor.com
 www.carousell.sg:443#VPS789优选 | www.carousell.sg
 www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
+www.deepl.com:443#VPS789优选 | www.deepl.com
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 openai.com:443#VPS789优选 | openai.com
 www.5199dy.com:443#VPS789优选 | www.5199dy.com
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
 linear.app:443#VPS789优选 | linear.app
 nexusmods.com:443#VPS789优选 | nexusmods.com
+www.ox.ac.uk:443#VPS789优选 | www.ox.ac.uk
 www.vmware.com:443#VPS789优选 | www.vmware.com
 m.iyf.tv:443#VPS789优选 | m.iyf.tv
 www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
@@ -76,7 +78,6 @@ cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
 www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci:443#VPS789优选 | cfip-cm.stoeaves.us.ci
-funko.com:443#VPS789优选 | funko.com
 yfvsdf.cf.3666888.xyz:443#VPS789优选 | yfvsdf.cf.3666888.xyz
 top-fast.cf.3666888.xyz:443#VPS789优选 | top-fast.cf.3666888.xyz
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
@@ -85,7 +86,6 @@ cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 store.ubi.com:443#VPS789优选 | store.ubi.com
 cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
 spring.io:443#VPS789优选 | spring.io
-www.ox.ac.uk:443#VPS789优选 | www.ox.ac.uk
 sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
 cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
@@ -97,6 +97,6 @@ www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 imooo.de:443#VPS789优选 | imooo.de
 ctsg.cfyx.aliyun.20237737.xyz:443#VPS789优选 | ctsg.cfyx.aliyun.20237737.xyz
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
+funko.com:443#VPS789优选 | funko.com
 1.cloudflare.19931110.xyz:443#VPS789优选 | 1.cloudflare.19931110.xyz
-cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
