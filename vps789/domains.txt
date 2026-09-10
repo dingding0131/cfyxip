@@ -33,7 +33,6 @@ www.090902.xyz
 cloudflare-ip.mofashi.ltd
 b3.cfyx.20237737.xyz
 staticdelivery.nexusmods.com
-cf.130519.xyz
 guide.for.edu.sg
 www.mc.js.cool
 ahrefs.com
@@ -59,6 +58,7 @@ www.deepl.com
 cdns.doon.eu.org
 openai.com
 www.5199dy.com
+cf.130519.xyz
 cf.godns.cc
 linear.app
 nexusmods.com
@@ -87,6 +87,7 @@ cfyx.aliyun.20237737.xyz
 spring.io
 sg.cf.3666888.xyz
 cf.cf.3666888.xyz
+cfyx.qdqqd.com
 2.cf.3666888.xyz
 1.cf.3666888.xyz
 4.cf.3666888.xyz
@@ -104,7 +105,6 @@ constitution.congress.gov
 thebeat.gehealthcare.com
 www.sage.com
 www.jimdo.com
-cfyx.qdqqd.com
 yg7.ygkkk.dpdns.org
 cdn.091224.xyz
 01-cctv.com
@@ -122,6 +122,7 @@ cf.v8.longsays.com
 dash.cloudflare.com
 ip.skk.moe
 hubspot.com
+syncfusion.com
 cfvip.cf.3666888.xyz
 www.mfyx.cn
 www.mlkj888.com
@@ -134,7 +135,6 @@ funko.com
 www.dbs.com.sg
 www.loc.gov
 api.producthunt.com
-syncfusion.com
 moodle.org
 garuda-indonesia.com
 registry.npmjs.org
@@ -171,11 +171,9 @@ aqua-aria.company
 cmcc.vvvv.ee
 crowdstrike.com
 jquery.com
-unpkg.com
 themeisle.com
 networksolutions.com
 zoominfo.com
-absen.com
 china-mobile.cname.cloudflare.468123.xyz
 cfip-cu.stoeaves.us.ci
 pubs.acs.org
@@ -185,6 +183,8 @@ cf.cloudflare.182682.xyz
 cf.777791.xyz
 cdnjs.com
 gitlab.com
+unpkg.com
+absen.com
 challenges.cloudflare.com
 www.6i5.com
 china-unicom.cname.cloudflare.468123.xyz
