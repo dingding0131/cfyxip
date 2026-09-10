@@ -99,6 +99,7 @@ www.akasantech.com
 yfvsdf.cf.3666888.xyz
 ip.skk.moe
 fn.130519.xyz
+cf.130519.xyz
 www.ox.ac.uk
 racerseseries.sky.com
 thebeat.gehealthcare.com
@@ -110,7 +111,6 @@ ctlmt.info
 www.090902.xyz
 registry.npmjs.org
 www.5199dy.com
-cf.130519.xyz
 cmcc.vvvv.ee
 absen.com
 pwjbl.me
@@ -152,7 +152,6 @@ videodelivery.net
 www.whatismyip.com
 unpkg.com
 sourceforge.net
-rocketreach.co
 buyshoes.shop
 support.communilink.net
 pure.coupert.com
@@ -168,13 +167,16 @@ china.mfa.gov.ua
 yg7.ygkkk.dpdns.org
 hzytjy.cn
 cloudflare.468123.xyz
+api.cloudflare.com
 chrono24.com
 kick.com
 www.mediafire.com
+hentaiverse.org
 nodejs.org
 images.chesscomfiles.com
 db-ip.com
 time.is
+rocketreach.co
 qoj.ac
 help.kolet.com
 www.dwk.com
@@ -182,6 +184,7 @@ challenges.cloudflare.com
 www.trump.com
 grass.io
 linkvertise.com
+cm.cf.090902.xyz
 www.elegantthemes.com
 cf.090227.xyz
 dash.cloudflare.com
@@ -195,6 +198,3 @@ www.jimdo.com
 clickhouse.com
 store.epicgames.com
 www.petronaftco.com
-cfyx.qdqqd.com
-yg13.ygkkk.dpdns.org
-101yaoye.com
