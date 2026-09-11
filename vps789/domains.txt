@@ -57,7 +57,6 @@ www.akasantech.com
 www.deepl.com
 cdns.doon.eu.org
 openai.com
-www.5199dy.com
 cf.130519.xyz
 cf.godns.cc
 linear.app
@@ -81,6 +80,7 @@ yfvsdf.cf.3666888.xyz
 top-fast.cf.3666888.xyz
 cf-cname.xingpingcn.top
 cu.877774.xyz
+www.5199dy.com
 store.ubi.com
 cfyx.aliyun.20237737.xyz
 spring.io
@@ -122,7 +122,6 @@ cf.v8.longsays.com
 dash.cloudflare.com
 ip.skk.moe
 hubspot.com
-syncfusion.com
 cfvip.cf.3666888.xyz
 www.mfyx.cn
 www.mlkj888.com
@@ -135,6 +134,7 @@ funko.com
 www.dbs.com.sg
 www.loc.gov
 api.producthunt.com
+syncfusion.com
 moodle.org
 garuda-indonesia.com
 registry.npmjs.org
@@ -154,13 +154,13 @@ china.mfa.gov.ua
 cmcc.hw.090227.xyz
 investor.apple.com
 cdn.2x.nz
+cfip-cu.stoeaves.us.ci
 dogechain.info
 japan.com
 www.whatismyip.com
 elegantthemes.com
 qoj.ac
 www.meteorelectrical.com
-dexari.com
 yg12.ygkkk.dpdns.org
 linkvertise.com
 salaryexpert.com
@@ -169,13 +169,11 @@ rankmath.com
 digitalocean.com
 aqua-aria.company
 crowdstrike.com
-jquery.com
 themeisle.com
 networksolutions.com
 hzytjy.cn
 china-mobile.cname.cloudflare.468123.xyz
 shanghai.mfa.gov.ua
-cfip-cu.stoeaves.us.ci
 pubs.acs.org
 cf.qq.ms
 cf.vvhan.com
@@ -185,6 +183,7 @@ cdnjs.com
 gitlab.com
 unpkg.com
 absen.com
+dexari.com
 challenges.cloudflare.com
 www.6i5.com
 china-unicom.cname.cloudflare.468123.xyz
@@ -198,3 +197,4 @@ pages.cloudflare.com
 666.cf.cname.vvhan.com
 cmcc.877774.xyz
 cmcc.vvvv.ee
+go1.dematic.com
