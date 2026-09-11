@@ -96,7 +96,6 @@ www.bangbenjiaju.com
 imooo.de
 ctsg.cfyx.aliyun.20237737.xyz
 www.sloomb.com
-1.cloudflare.19931110.xyz
 www.udacity.com
 cf.877771.xyz
 fn.130519.xyz
@@ -111,6 +110,7 @@ cdn.091224.xyz
 cfplus.255520.xyz
 ct.721660.xyz
 www.xflash.vip
+1.cloudflare.19931110.xyz
 cdn.fiatnorm.us.kg
 cf.xreak.top
 cloudflare.19931110.xyz
@@ -120,7 +120,6 @@ cloudflare.com
 cloudflare.182682.xyz
 dash.cloudflare.com
 ip.skk.moe
-hubspot.com
 cfvip.cf.3666888.xyz
 www.mfyx.cn
 www.mlkj888.com
@@ -142,6 +141,7 @@ cnamefuckxxs.yuchen.icu
 www.ntu.edu.sg
 www.hugedomains.com
 mskcc.org
+hubspot.com
 uptimerobot.com
 clickhouse.com
 9mod.com
@@ -152,7 +152,6 @@ cmcc.hw.090227.xyz
 investor.apple.com
 cfgo.timelate.com
 cdn.2x.nz
-cfip-cu.stoeaves.us.ci
 dogechain.info
 japan.com
 www.whatismyip.com
@@ -174,6 +173,7 @@ networksolutions.com
 cf.998866.top
 hzytjy.cn
 china-mobile.cname.cloudflare.468123.xyz
+cfip-cu.stoeaves.us.ci
 pubs.acs.org
 cf.qq.ms
 cf.vvhan.com
@@ -197,4 +197,4 @@ cmcc.877774.xyz
 cmcc.vvvv.ee
 go1.dematic.com
 jquery.com
-mvnrepository.com
+aftership.com
