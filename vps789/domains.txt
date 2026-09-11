@@ -39,6 +39,7 @@ cu.877774.xyz
 p.etime.vip
 gh-proxy.com
 cfyx.aliyun.20237737.xyz
+www.mastervolt.com
 cdn.cf.3666888.xyz
 cf.cf.3666888.xyz
 2.cf.3666888.xyz
@@ -79,6 +80,7 @@ cdn.2020111.xyz
 cf.090227.xyz
 fn.130519.xyz
 constitution.congress.gov
+www.crazygames.fr
 123.cf.3666888.xyz
 img.css.sd
 www.galgamex.net
@@ -87,6 +89,7 @@ greim.no
 china-telecom.cname.cloudflare.468123.xyz
 www.dg22.top
 cf.cloudflare.182682.xyz
+cf.v8.longsays.com
 fbi.gov
 adnjv.cf.3666888.xyz
 9.cf.3666888.xyz
@@ -96,7 +99,6 @@ cf.qq.ms
 funko.com
 edgeone.gh-proxy.org
 mskcc.org
-cf.v8.longsays.com
 www.ntu.edu.sg
 cf.877771.xyz
 cmcc.877774.xyz
@@ -143,7 +145,6 @@ pttime.org
 ctlmt.info
 china-mobile.cname.cloudflare.468123.xyz
 01-cctv.com
-cdn.2x.nz
 1.cloudflare.19931110.xyz
 4gxb7l7p40.cloudflare-gateway.com
 digitalocean.com
@@ -178,6 +179,7 @@ clickhouse.com
 challenges.cloudflare.com
 yg7.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org
+wallpaperflare.com
 pubs.acs.org
 codexradar.com
 worldvectorlogo.com
@@ -192,9 +194,7 @@ tinyurl.com
 www.bis.gov
 www.leics.police.uk
 www.trumpinternationalrealty.com
+cdn.2x.nz
 131.youxuan.cf.090227.xyz
 ex.warspite.dpdns.org
 registry.npmjs.org
-nodejs.org
-lt.1930812.xyz
-cf.777791.xyz
