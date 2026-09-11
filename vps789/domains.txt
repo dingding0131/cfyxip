@@ -71,6 +71,7 @@ isp.254301.xyz
 test.509666.xyz
 111.cf.cname.vvhan.com
 www.hdmoli.com
+www.mlkj888.com
 hzytjy.cn
 cf.468123.xyz
 cfplus.255520.xyz
@@ -78,12 +79,11 @@ dongbanghong.com
 cf.090227.xyz
 constitution.congress.gov
 123.cf.3666888.xyz
+img.css.sd
 www.galgamex.net
-www.mlkj888.com
 greim.no
 china-telecom.cname.cloudflare.468123.xyz
 www.dg22.top
-cf.877774.xyz
 fn.130519.xyz
 fbi.gov
 adnjv.cf.3666888.xyz
@@ -101,7 +101,6 @@ cf.130519.xyz
 themeisle.com
 cdnjs.cloudflare.com
 7.cf.3666888.xyz
-img.css.sd
 yg6.ygkkk.dpdns.org
 investor.apple.com
 cdn.2x.nz
@@ -117,6 +116,7 @@ sourceforge.net
 kali.download
 cf.v8.longsays.com
 dash.cloudflare.com
+cf.877774.xyz
 bestcf.030101.xyz
 bestcfv4.030101.xyz
 www.postman.com
@@ -132,6 +132,7 @@ yg12.ygkkk.dpdns.org
 s.bookcdn.com
 cmcc.090227.xyz
 666.cf.cname.vvhan.com
+mfa.gov.ua
 envato.com
 hostinger.com
 sanwang.cf.3666888.xyz
@@ -139,8 +140,10 @@ sg.cf.3666888.xyz
 pttime.org
 ctlmt.info
 china-mobile.cname.cloudflare.468123.xyz
+01-cctv.com
 1.cloudflare.19931110.xyz
 4gxb7l7p40.cloudflare-gateway.com
+digitalocean.com
 www.visa.com.sg
 cdnjs.com
 dx.doi.org
@@ -149,10 +152,8 @@ mvnrepository.com
 china-unicom.cname.cloudflare.468123.xyz
 linkvertise.com
 appstorrent.ru
-digitalocean.com
 img.imgdd.com
 ip.skk.moe
-mfa.gov.ua
 yxip.xxxxxxxx.tk
 www.wto.org
 go1.dematic.com
@@ -184,6 +185,7 @@ www.hypixel.net
 guide.for.edu.sg
 www.sage.com
 tinyurl.com
+www.bis.gov
 www.leics.police.uk
 china.mfa.gov.ua
 run.254301.xyz
@@ -196,5 +198,3 @@ lt.1930812.xyz
 cf.777791.xyz
 time.is
 ip.sb
-icook.tw
-singapore.com
