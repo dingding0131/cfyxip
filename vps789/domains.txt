@@ -123,13 +123,13 @@ dash.cloudflare.com
 cf.877774.xyz
 bestcf.030101.xyz
 bestcfv4.030101.xyz
-www.postman.com
 6.cf.3666888.xyz
 ikankeji.com
 cnllm.com
 cf.553314.xyz
 registry.yarnpkg.com
 gitlab.com
+www.postman.com
 unpkg.com
 qoj.ac
 yg12.ygkkk.dpdns.org
@@ -185,7 +185,6 @@ codexradar.com
 worldvectorlogo.com
 cdnjs.loli.net
 js.org
-ct.090227.xyz
 cfsaas.080112.xyz
 www.hypixel.net
 guide.for.edu.sg
@@ -197,4 +196,5 @@ www.trumpinternationalrealty.com
 cdn.2x.nz
 131.youxuan.cf.090227.xyz
 ex.warspite.dpdns.org
-registry.npmjs.org
+nodejs.org
+lt.1930812.xyz
