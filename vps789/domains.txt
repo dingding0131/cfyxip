@@ -35,7 +35,6 @@ www.sloomb.com
 www.giannidelprete.it
 coke.cf.3666888.xyz
 cf-cname.xingpingcn.top
-cloudflare.cfgo.cc
 cu.877774.xyz
 p.etime.vip
 gh-proxy.com
@@ -54,6 +53,7 @@ cfip-cm.stoeaves.us.ci
 play.mc.js.cool
 www.deepl.com
 openai.com
+cloudflare.cfgo.cc
 cf.3666888.xyz
 nexusmods.com
 www.ox.ac.uk
@@ -94,6 +94,7 @@ edgeone.gh-proxy.org
 cf.cloudflare.182682.xyz
 mskcc.org
 visa.com.tw
+cf.v8.longsays.com
 www.ntu.edu.sg
 cf.877771.xyz
 cmcc.877774.xyz
@@ -114,7 +115,6 @@ ping.pe
 japan.com
 sourceforge.net
 kali.download
-cf.v8.longsays.com
 dash.cloudflare.com
 cf.877774.xyz
 bestcf.030101.xyz
@@ -141,6 +141,7 @@ pttime.org
 ctlmt.info
 china-mobile.cname.cloudflare.468123.xyz
 01-cctv.com
+funko.com
 1.cloudflare.19931110.xyz
 4gxb7l7p40.cloudflare-gateway.com
 digitalocean.com
@@ -162,7 +163,6 @@ keji.cf.3666888.xyz
 10.cf.3666888.xyz
 yg8.ygkkk.dpdns.org
 grass.io
-funko.com
 cf.yfjc.sbs
 garuda-indonesia.com
 cloudflare.19931110.xyz
@@ -188,9 +188,7 @@ tinyurl.com
 www.bis.gov
 www.leics.police.uk
 china.mfa.gov.ua
-run.254301.xyz
 www.trumpinternationalrealty.com
-lt.zhuqq.qzz.io
 ex.warspite.dpdns.org
 registry.npmjs.org
 nodejs.org
@@ -198,3 +196,5 @@ lt.1930812.xyz
 cf.777791.xyz
 time.is
 ip.sb
+icook.tw
+singapore.com
