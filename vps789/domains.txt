@@ -60,6 +60,7 @@ cdn.cf.3666888.xyz
 jp.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
 11.cf.3666888.xyz
+www.mfyx.cn
 markmonitor.com
 aqua-aria.company
 sanwang.cf.3666888.xyz
@@ -82,9 +83,7 @@ fbi.gov
 ahrefs.com
 hostinger.com
 cf.cf.3666888.xyz
-4.cf.3666888.xyz
 test.509666.xyz
-www.mfyx.cn
 dongbanghong.com
 cfip-cu.stoeaves.us.ci
 cf.xreak.top
@@ -93,6 +92,7 @@ cf.130519.xyz
 www.sage.com
 2.cf.3666888.xyz
 3.cf.3666888.xyz
+4.cf.3666888.xyz
 7.cf.3666888.xyz
 10.cf.3666888.xyz
 securecircle.com
@@ -117,6 +117,7 @@ chrono24.com
 cloudflare.19931110.xyz
 w3.org
 investor.apple.com
+cdn.555586.xyz
 cnllm.com
 china-telecom.cname.cloudflare.468123.xyz
 1.cloudflare.19931110.xyz
@@ -138,6 +139,7 @@ m.iyf.tv
 ippure.com
 www.mlkj888.com
 cmcc.hw.090227.xyz
+cf.777791.xyz
 www.ntu.edu.sg
 gitlab.com
 www.postman.com
@@ -148,7 +150,6 @@ salaryexpert.com
 rarbg.proxyninja.org
 registry.yarnpkg.com
 bestcf.030101.xyz
-ip.skk.moe
 yxip.xxxxxxxx.tk
 bestcfv4.030101.xyz
 tajikistan.mfa.gov.ua
@@ -164,7 +165,6 @@ yg12.ygkkk.dpdns.org
 ctlmt.info
 wallpaperflare.com
 zj.7star.eu.cc
-cf.777791.xyz
 dogechain.info
 racerseseries.sky.com
 www.6i5.com
@@ -175,6 +175,7 @@ digitalocean.com
 cdn.2020111.xyz
 cfip.1323123.xyz
 www.udacity.com
+ip.skk.moe
 cdnjs.com
 p.etime.vip
 crowdstrike.com
@@ -197,4 +198,3 @@ zero-trust-client.cloudflareclient.com
 time.is
 mskcc.org
 encryptedsni.com
-mvnrepository.com
