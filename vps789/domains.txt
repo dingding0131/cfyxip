@@ -122,6 +122,7 @@ www.galgamex.net
 cnllm.com
 china-telecom.cname.cloudflare.468123.xyz
 1.cloudflare.19931110.xyz
+cdn.fiatnorm.us.kg
 rargb.to
 images.chesscomfiles.com
 cf.yj250.bond
@@ -141,7 +142,6 @@ ippure.com
 www.mlkj888.com
 cmcc.hw.090227.xyz
 cf.777791.xyz
-cloudflare.19931110.xyz
 cnamefuckxxs.yuchen.icu
 www.ntu.edu.sg
 gitlab.com
@@ -150,7 +150,6 @@ qoj.ac
 store.epicgames.com
 yg9.ygkkk.dpdns.org
 salaryexpert.com
-rarbg.proxyninja.org
 registry.yarnpkg.com
 cdn.2020111.xyz
 dash.cloudflare.com
@@ -168,14 +167,15 @@ yg8.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org
 ctlmt.info
 wallpaperflare.com
-cdn.fiatnorm.us.kg
+brandstudio.com
 zj.7star.eu.cc
+cloudflare.19931110.xyz
 dogechain.info
 racerseseries.sky.com
 www.6i5.com
 kernelsu.com
 pubs.acs.org
-brandstudio.com
+rarbg.proxyninja.org
 i.pixiv.nl
 digitalocean.com
 cfip.1323123.xyz
@@ -195,6 +195,6 @@ www.sofi.com
 greim.no
 zen-browser.app
 www.trumpinternationalrealty.com
-cf.nyanya.moe
-131.youxuan.cf.090227.xyz
 worldvectorlogo.com
+cdnjs.loli.net
+js.org
