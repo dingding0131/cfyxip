@@ -35,6 +35,7 @@ cloudflare-ip.mofashi.ltd
 www.shopify.com
 fn.130519.xyz
 b3.cfyx.20237737.xyz
+staticdelivery.nexusmods.com
 cf.godns.cc
 cfyx.aliyun.20237737.xyz
 spring.io
@@ -46,6 +47,7 @@ eteaf.cf.3666888.xyz
 6.cf.3666888.xyz
 yg2.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org
+cdn.091224.xyz
 cfplus.255520.xyz
 www.carousell.sg
 www.blibli.com
@@ -54,7 +56,6 @@ www.sloomb.com
 www.akasantech.com
 edgeone.gh-proxy.org
 www.deepl.com
-staticdelivery.nexusmods.com
 cf.3666888.xyz
 dnew.cc
 www.crazygames.fr
@@ -99,9 +100,9 @@ www.sage.com
 securecircle.com
 hzytjy.cn
 chinwa.cf.090227.xyz
-yd.hhhhh.eu.org
 cf.xycf.asia
 virtualcommtraining.verizon.com
+yd.hhhhh.eu.org
 cf.v8.longsays.com
 666.cf.cname.vvhan.com
 cloudflare.cfgo.cc
@@ -166,6 +167,7 @@ sourceforge.net
 cf.998866.top
 yg8.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org
+www.sofi.com
 ctlmt.info
 wallpaperflare.com
 brandstudio.com
@@ -191,10 +193,8 @@ www.jimdo.com
 codeforces.com
 emos.best
 www.broadcom.com
-www.sofi.com
 greim.no
 zen-browser.app
 www.trumpinternationalrealty.com
 worldvectorlogo.com
 cdnjs.loli.net
-js.org
