@@ -1,5 +1,6 @@
-162.159.198.1:8443#VPS789优选域名 TOP20 | 09-13 06:11 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP20 | 09-13 06:40 | BestCF.pages.dev
 cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
+store.ubi.com:8443#VPS789优选 | store.ubi.com
 gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 www.giannidelprete.it:8443#VPS789优选 | www.giannidelprete.it
 linear.app:8443#VPS789优选 | linear.app
@@ -18,5 +19,4 @@ openai.com:8443#VPS789优选 | openai.com
 youxuan.cf.3666888.xyz:8443#VPS789优选 | youxuan.cf.3666888.xyz
 hk.cf.3666888.xyz:8443#VPS789优选 | hk.cf.3666888.xyz
 sg.cf.3666888.xyz:8443#VPS789优选 | sg.cf.3666888.xyz
-vip.cf.3666888.xyz:8443#VPS789优选 | vip.cf.3666888.xyz
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
