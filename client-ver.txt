@@ -3,6 +3,7 @@
 666OS/ClashMac|27.1.4|2026-09-04
 Asterisk4Magisk/AsteriskMETA|1.2.7|2026-09-06
 Asterisk4Magisk/AsteriskNG|1.4.7|2026-09-06
+ExclaveNetwork/Exclave|0.17.56|2026-09-07
 GUI-for-Cores/GUI.for.Clash|1.27.0|2026-09-08
 GUI-for-Cores/GUI.for.SingBox|1.27.0|2026-09-08
 GtxFury/FlyClash|0.2.9|2026-05-17
@@ -11,13 +12,14 @@ Happ-proxy/happ-desktop|4.2.1|2026-09-04
 Juwan-Hwang/Zephyr|2.4.4|2026-08-22
 KaringX/karing|1.2.25.2802|2026-09-10
 Kindness-Kismet/stelliberty|2.0.30|2026-09-05
+Leadaxe/sing-box-lx|1.14.0-lx.35|2026-09-06
 MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
 MetaCubeX/ClashMetaForAndroid|2.11.33|2026-08-16
 MetaCubeX/ClashX.Meta|1.4.44|2026-08-16
 MetaCubeX/mihomo|1.19.30|2026-08-16
 Nemu-x/SlothClash|0.9.2|2026-09-03
 Openwrt-Passwall/openwrt-passwall|26.9.9-1|2026-09-09
-Openwrt-Passwall/openwrt-passwall2|26.9.12-2|2026-09-12
+Openwrt-Passwall/openwrt-passwall2|26.9.12-2|2026-09-13
 PhoenixNil/XrayUI-dev|1.18|2026-07-26
 RoperYoung/clash-mihomo-for-haymonyos|2.11.27-meta-harmony-r1|2026-05-25
 SagerNet/sing-box|1.14.0|2026-08-31
