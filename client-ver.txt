@@ -12,7 +12,7 @@ Happ-proxy/happ-desktop|4.2.1|2026-09-04
 Juwan-Hwang/Zephyr|2.4.4|2026-08-22
 KaringX/karing|1.2.25.2802|2026-09-10
 Kindness-Kismet/stelliberty|2.0.30|2026-09-05
-Leadaxe/sing-box-lx|1.14.0-lx.36|2026-09-14
+Leadaxe/sing-box-lx|1.14.0-lx.38|2026-09-14
 MatsuriDayo/NekoBoxForAndroid|1.4.2|2026-02-09
 MetaCubeX/ClashMetaForAndroid|2.11.33|2026-08-16
 MetaCubeX/ClashX.Meta|1.4.44|2026-08-16
@@ -57,7 +57,7 @@ xiaobaigroup/ClashBox|1.7.4|2026-04-02
 xiaoli8571/NekoBox4Harmony|1.9.0|2026-09-08
 xinggaoya/sing-box-windows|2.3.1|2026-06-17
 xishang0128/sparkle|1.26.8|2026-09-03
-yabi-zzh/HoKit|1.8.7|2026-08-30
+yabi-zzh/HoKit|1.8.8|2026-09-14
 yanue/v2rayu|5.2.0|2026-08-02
 yaog6700-bit/Swell-Proxy|3.3.5|2026-09-03
 zn0wii/satelite-proxy|1.0.33|2026-09-13
