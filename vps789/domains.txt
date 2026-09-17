@@ -25,7 +25,6 @@ sg.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
 5.cf.3666888.xyz
 www.nexusmods.com
-securecircle.com
 china-telecom.cname.cloudflare.468123.xyz
 www.carousell.sg
 www.blibli.com
@@ -35,7 +34,6 @@ play.mc.js.cool
 cf.xycf.asia
 funko.com
 www.deepl.com
-www.ntu.edu.sg
 cf.090227.xyz
 staticdelivery.nexusmods.com
 gh-proxy.com
@@ -45,11 +43,13 @@ cdn.555586.xyz
 3.cf.3666888.xyz
 yg9.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org
+securecircle.com
 www.bangbenjiaju.com
 cdn.7zz.cn
 markmonitor.com
 ct.721660.xyz
 top-fast.cf.3666888.xyz
+www.ntu.edu.sg
 cdns.doon.eu.org
 cf-cname.xingpingcn.top
 www.mastervolt.com
@@ -92,6 +92,7 @@ cfip-ct.stoeaves.us.ci
 cloudflare.19931110.xyz
 elegantthemes.com
 cf.v8.longsays.com
+cf.130519.xyz
 thebeat.gehealthcare.com
 jp.cf.3666888.xyz
 adnjv.cf.3666888.xyz
@@ -108,9 +109,6 @@ jquery.com
 bestcf.top
 ip.sb
 ip.skk.moe
-mfa.gov.ua
-cf.130519.xyz
-da.mfa.gov.ua
 dango.co
 www.5h.com
 vip.cf.3666888.xyz
@@ -129,8 +127,10 @@ worldvectorlogo.com
 www.mediafire.com
 cloudflare.com
 bestcf.030101.xyz
+mfa.gov.ua
 cloudflare.cfgo.cc
 cmcc.877774.xyz
+da.mfa.gov.ua
 clickhouse.com
 www.hdmoli.com
 cdn.091224.xyz
@@ -174,7 +174,9 @@ imooo.de
 investor.apple.com
 www.trumpinternationalrealty.com
 trump.com
+www.roche.com
 www.visa.com.sg
+v.recipes
 www.epicgames.com
 go1.dematic.com
 journeys.com
@@ -183,10 +185,8 @@ cloudflare.tv
 store.ubisoft.com
 www.acces-maroc.ma
 crypto.cloudflare.com
-www.roche.com
 db-ip.com
 digitalocean.com
-v.recipes
 ct.877774.xyz
 fbi.gov
 www.ox.ac.uk
