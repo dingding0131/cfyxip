@@ -17,7 +17,9 @@ openai.com
 cu.877774.xyz
 linear.app
 cf.3666888.xyz
+nexusmods.com
 spring.io
+www.mc.js.cool
 youxuan.cf.3666888.xyz
 sg.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
@@ -36,9 +38,7 @@ www.deepl.com
 cf.090227.xyz
 staticdelivery.nexusmods.com
 gh-proxy.com
-nexusmods.com
 constitution.congress.gov
-www.mc.js.cool
 m.iyf.tv
 cfyx.qdqqd.com
 cdn.555586.xyz
@@ -85,6 +85,7 @@ hfqek.cf.3666888.xyz
 5.cf.3666888.xyz
 10.cf.3666888.xyz
 11.cf.3666888.xyz
+img.css.sd
 api.cloudflare.com
 cf.553314.xyz
 cfip-avg.stoeaves.us.ci
@@ -95,29 +96,30 @@ elegantthemes.com
 cf.v8.longsays.com
 ip.skk.moe
 cf.130519.xyz
+jobsdb.com
 jp.cf.3666888.xyz
 adnjv.cf.3666888.xyz
 isp.254301.xyz
 1.cf.3666888.xyz
 6.cf.3666888.xyz
 9.cf.3666888.xyz
-img.css.sd
-yg11.ygkkk.dpdns.org
 yx.cf.090227.xyz
 cf.92555.xyz
 videodelivery.net
 jquery.com
 bestcf.top
 ip.sb
+mfa.gov.ua
 cloudflare.cfgo.cc
 da.mfa.gov.ua
+thebeat.gehealthcare.com
 dango.co
 clickhouse.com
-jobsdb.com
 vip.cf.3666888.xyz
 2.cf.3666888.xyz
 7.cf.3666888.xyz
 8.cf.3666888.xyz
+yg11.ygkkk.dpdns.org
 www.hdmoli.com
 cloudflare.468123.xyz
 shanghai.mfa.gov.ua
@@ -133,7 +135,6 @@ worldvectorlogo.com
 www.mediafire.com
 cloudflare.com
 bestcf.030101.xyz
-mfa.gov.ua
 cmcc.877774.xyz
 www.sofi.com
 hzytjy.cn
@@ -144,6 +145,7 @@ cfip-cm.stoeaves.us.ci
 yd.hhhhh.eu.org
 lt.1930812.xyz
 a.pub.network
+static.elfsight.com
 www.postman.com
 debot.ai
 racerseseries.sky.com
@@ -154,7 +156,6 @@ registry.npmjs.org
 nodejs.org
 tracker.metricool.com
 www.elegantthemes.com
-static.elfsight.com
 www.eccu.edu
 example.com
 dash.cloudflare.com
@@ -162,7 +163,6 @@ www.udacity.com
 666.cf.cname.vvhan.com
 yxip.xxxxxxxx.tk
 gitlab.com
-thebeat.gehealthcare.com
 crowdstrike.com
 hostinger.com
 codeforces.com
@@ -190,7 +190,6 @@ www.acces-maroc.ma
 crypto.cloudflare.com
 db-ip.com
 digitalocean.com
-ct.090227.xyz
 ct.877774.xyz
 fbi.gov
 www.ox.ac.uk
@@ -198,3 +197,4 @@ sunkist.com
 envato.com
 sourceforge.net
 networksolutions.com
+moodle.org
