@@ -54,11 +54,11 @@ www.mastervolt.com
 dnew.cc
 cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz
-cfyx.qdqqd.com
 123.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 www.xiaoshuofen.com
 greim.no
+chinwa.cf.090227.xyz
 cf.468123.xyz
 ctsg.cfyx.aliyun.20237737.xyz
 www.vastnovel.com
@@ -69,10 +69,9 @@ www.5199dy.com
 store.ubi.com
 w3.org
 cf.cf.3666888.xyz
+cfyx.qdqqd.com
 test.509666.xyz
-www.galgamex.net
 uspto.gov
-chinwa.cf.090227.xyz
 cdn.2x.nz
 dongbanghong.com
 cf.xreak.top
@@ -86,6 +85,7 @@ hfqek.cf.3666888.xyz
 10.cf.3666888.xyz
 11.cf.3666888.xyz
 img.css.sd
+www.galgamex.net
 api.cloudflare.com
 cf.553314.xyz
 cfip-avg.stoeaves.us.ci
@@ -94,7 +94,7 @@ cfip-ct.stoeaves.us.ci
 cloudflare.19931110.xyz
 elegantthemes.com
 cf.v8.longsays.com
-ip.skk.moe
+mfa.gov.ua
 da.mfa.gov.ua
 thebeat.gehealthcare.com
 jp.cf.3666888.xyz
@@ -110,8 +110,7 @@ videodelivery.net
 jquery.com
 bestcf.top
 ip.sb
-mfa.gov.ua
-cloudflare.cfgo.cc
+ip.skk.moe
 cf.130519.xyz
 dango.co
 jobsdb.com
@@ -133,6 +132,7 @@ worldvectorlogo.com
 www.mediafire.com
 cloudflare.com
 bestcf.030101.xyz
+cloudflare.cfgo.cc
 cmcc.877774.xyz
 clickhouse.com
 yg11.ygkkk.dpdns.org
@@ -180,7 +180,6 @@ www.roche.com
 www.visa.com.sg
 v.recipes
 www.epicgames.com
-api.uniapi.io
 go1.dematic.com
 journeys.com
 cloudflare.tv
@@ -198,3 +197,4 @@ envato.com
 sourceforge.net
 networksolutions.com
 moodle.org
+www.jimdo.com
