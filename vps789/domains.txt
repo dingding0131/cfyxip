@@ -1,7 +1,6 @@
 cfsaas.080112.xyz
 cf.godns.cc
 cfyx.aliyun.20237737.xyz
-cdn.2x.nz
 cf.553314.xyz
 b3.cfyx.20237737.xyz
 ctsg.cfyx.aliyun.20237737.xyz
@@ -14,6 +13,7 @@ store.ubi.com
 staticdelivery.nexusmods.com
 gh-proxy.com
 2.cf.3666888.xyz
+cdn.2x.nz
 edgeone.gh-proxy.org
 cloudflare.19931110.xyz
 cu.877774.xyz
@@ -73,7 +73,6 @@ cloudflare.468123.xyz
 cfgo.timelate.com
 ct.721660.xyz
 www.akasantech.com
-cdn.ddeed.de
 131.youxuan.cf.090227.xyz
 yfvsdf.cf.3666888.xyz
 top-fast.cf.3666888.xyz
@@ -93,6 +92,7 @@ greim.no
 china-telecom.cname.cloudflare.468123.xyz
 chinwa.cf.090227.xyz
 markmonitor.com
+cdn.ddeed.de
 play.mc.js.cool
 virtualcommtraining.verizon.com
 yg5.ygkkk.dpdns.org
@@ -109,9 +109,7 @@ cdn.7zz.cn
 cf.468123.xyz
 dongbanghong.com
 singapore.com
-cmcc.vvvv.ee
 cdnjs.cloudflare.com
-youxuan.cf.3666888.xyz
 cdn.555586.xyz
 8.cf.3666888.xyz
 ikankeji.com
@@ -122,19 +120,19 @@ cf.0sm.com
 icook.tw
 www.postman.com
 mvnrepository.com
-visa.com.tw
 cfip.1323123.xyz
 cmcc.090227.xyz
 cf.v8.longsays.com
 yxip.xxxxxxxx.tk
 gitlab.com
 www.5199dy.com
+cmcc.vvvv.ee
 racerseseries.sky.com
 thebeat.gehealthcare.com
 themeisle.com
 uptimerobot.com
 9mod.com
-sg.cf.3666888.xyz
+youxuan.cf.3666888.xyz
 cf1s.cf.3666888.xyz
 cf.998866.top
 www.galgamex.net
@@ -152,6 +150,7 @@ jobsdb.com
 www.botafogo.com.br
 www.meteorelectrical.com
 moondroplab.com
+sg.cf.3666888.xyz
 cf.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 img.css.sd
@@ -164,6 +163,7 @@ cdnjs.loli.net
 www.090902.xyz
 example.com
 zabc.net
+visa.com.tw
 oxylabs.io
 registry.npmjs.org
 ct.090227.xyz
@@ -184,7 +184,6 @@ assets.bizclikmedia.net
 tracker.metricool.com
 bestcf.top
 webn.cc
-cloudflare.182682.xyz
 dash.cloudflare.com
 www.ntu.edu.sg
 v.recipes
@@ -198,3 +197,4 @@ www.doiting.com
 keji.cf.3666888.xyz
 cfdl.3666888.xyz
 uac.cf.3666888.xyz
+yg1.ygkkk.dpdns.org
