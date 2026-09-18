@@ -1,7 +1,7 @@
 cfsaas.080112.xyz
 cf.godns.cc
-cfyx.aliyun.20237737.xyz
 cf.553314.xyz
+cfyx.aliyun.20237737.xyz
 b3.cfyx.20237737.xyz
 ctsg.cfyx.aliyun.20237737.xyz
 youxuan.cf.090227.xyz
@@ -89,10 +89,10 @@ networksolutions.com
 cf.090227.xyz
 www.crazygames.fr
 greim.no
+cdn.7zz.cn
 china-telecom.cname.cloudflare.468123.xyz
 chinwa.cf.090227.xyz
 markmonitor.com
-cdn.ddeed.de
 play.mc.js.cool
 virtualcommtraining.verizon.com
 yg5.ygkkk.dpdns.org
@@ -105,15 +105,15 @@ avido.cf.3666888.xyz
 11.cf.3666888.xyz
 yg8.ygkkk.dpdns.org
 run.254301.xyz
-cdn.7zz.cn
+securecircle.com
 cf.468123.xyz
 dongbanghong.com
+cdn.ddeed.de
 singapore.com
 cdnjs.cloudflare.com
 cdn.555586.xyz
 8.cf.3666888.xyz
 ikankeji.com
-securecircle.com
 cf.vvhan.com
 cf.yfjc.sbs
 cf.0sm.com
@@ -144,6 +144,7 @@ images.chesscomfiles.com
 aimagazine.com
 visa.com
 zero-trust-client.cloudflareclient.com
+ct.090227.xyz
 aandd.co.jp
 dango.co
 jobsdb.com
@@ -155,7 +156,6 @@ cf.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 img.css.sd
 ctlmt.info
-yx.cf.090227.xyz
 cf.92555.xyz
 cdn.fiatnorm.us.kg
 s.ee
@@ -166,9 +166,9 @@ zabc.net
 visa.com.tw
 oxylabs.io
 registry.npmjs.org
-ct.090227.xyz
 time.is
 ip.sb
+www.ntu.edu.sg
 kickstarter.com
 cmcc.877774.xyz
 www.libvio.site
@@ -176,6 +176,7 @@ www.5h.com
 buyshoes.shop
 www.ventusky.com
 builtbybuffalo.com
+www.hdmoli.com
 cmcc.cc.cd
 china-mobile.cname.cloudflare.468123.xyz
 cfip-cu.stoeaves.us.ci
@@ -184,8 +185,8 @@ assets.bizclikmedia.net
 tracker.metricool.com
 bestcf.top
 webn.cc
+cloudflare.182682.xyz
 dash.cloudflare.com
-www.ntu.edu.sg
 v.recipes
 japan.com
 www.whoer.net
@@ -197,4 +198,3 @@ www.doiting.com
 keji.cf.3666888.xyz
 cfdl.3666888.xyz
 uac.cf.3666888.xyz
-yg1.ygkkk.dpdns.org
